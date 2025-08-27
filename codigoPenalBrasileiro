@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "codigo": "Penal",
   "leis": [
     {
@@ -8,7 +8,8 @@
       "ano": 1940,
       "artigos": [
         {"numero": "Art. 1", "texto": "Não há crime sem lei anterior..."},
-        {"numero": "Art. 2", "texto": "O crime é punível..."}
+        {"numero": "Art. 2", "texto": "O crime é punível..."},
+        {"numero": "Art. 3", "texto": "Não tome o meu açaí."}
       ]
     }
   ]
