@@ -7,9 +7,1894 @@
       "titulo": "Código Penal - Parte Geral",
       "ano": 1940,
       "artigos": [
-        {"numero": "Art. 1", "texto": "Não há crime sem lei anterior..."},
-        {"numero": "Art. 2", "texto": "O crime é punível..."},
-        {"numero": "Art. 3", "texto": "Não tome o meu açaí."}
+{
+        "numero": "Art. 1ş",
+        "conteudo": "- Năo há crime sem lei anterior que o \n\t\t\tdefina. Năo há pena sem prévia cominaçăo legal.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 2ş",
+        "conteudo": "- Ninguém pode ser punido por fato que lei posterior deixa\r\nde considerar crime, cessando em virtude dela a execuçăo e os efeitos penais da\r\nsentença condenatória.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 3ş",
+        "conteudo": "- A lei excepcional ou temporária, embora decorrido o\r\nperíodo de sua duraçăo ou cessadas as circunstâncias que a determinaram, aplica-se ao\r\nfato praticado durante sua vigęncia.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 4ş",
+        "conteudo": "- Considera-se praticado o crime no momento da açăo ou\r\nomissăo, ainda que outro seja o momento do resultado.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 5ş",
+        "conteudo": "- Aplica-se a lei brasileira, sem prejuízo de\r\nconvençőes, tratados e regras de direito internacional, ao crime cometido no território\r\nnacional.            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 1984)"
+    },
+    {
+        "numero": "Art. 6ş",
+        "conteudo": "- Considera-se praticado o crime no lugar em que \r\nocorreu a açăo ou omissăo, no todo ou em parte, bem como onde se produziu ou \r\ndeveria produzir-se o resultado.            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 1984)"
+    },
+    {
+        "numero": "Art. 7ş",
+        "conteudo": "- Ficam sujeitos ŕ lei brasileira, embora cometidos no\r\nestrangeiro:            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 8ş",
+        "conteudo": "- A pena cumprida no estrangeiro atenua a pena imposta no\r\nBrasil pelo mesmo crime, quando diversas, ou nela é computada, quando idęnticas.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 9ş",
+        "conteudo": "- A sentença estrangeira, quando a aplicaçăo da lei\r\nbrasileira produz na espécie as mesmas conseqüęncias, pode ser homologada no Brasil\r\npara:            \n  (Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 10",
+        "conteudo": "- O dia do começo inclui-se no cômputo do prazo.\r\nContam-se os dias, os meses e os anos pelo calendário comum.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 11",
+        "conteudo": "- Desprezam-se, nas penas privativas de liberdade e nas\r\nrestritivas de direitos, as fraçőes de dia, e, na pena de multa, as fraçőes de\r\ncruzeiro.            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 11.7.1984)"
+    },
+    {
+        "numero": "Art. 12",
+        "conteudo": "- As regras gerais deste Código aplicam-se aos fatos\r\nincriminados por lei especial, se esta năo dispuser de modo diverso.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 13",
+        "conteudo": "- O resultado, de que depende a existęncia do crime,\r\nsomente é imputável a quem lhe deu causa. Considera-se causa a açăo ou omissăo sem a\r\nqual o resultado năo teria ocorrido.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 14",
+        "conteudo": "- Diz-se o crime:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 15",
+        "conteudo": "- O agente que, voluntariamente, desiste de prosseguir na\r\nexecuçăo ou impede que o resultado se produza, só responde pelos atos já praticados.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 16",
+        "conteudo": "- Nos crimes cometidos sem violęncia ou grave ameaça ŕ\r\npessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da\r\nqueixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 17",
+        "conteudo": "- Năo se pune a tentativa quando, por ineficácia absoluta\r\ndo meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 18",
+        "conteudo": "- Diz-se o crime:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 19\n",
+        "conteudo": " - Pelo resultado que agrava especialmente a pena,\r\nsó responde o agente que o houver causado ao menos culposamente.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 20",
+        "conteudo": "- O erro sobre elemento constitutivo do tipo legal de crime\r\nexclui o dolo, mas permite a puniçăo por crime culposo, se previsto em lei.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 21",
+        "conteudo": "- O desconhecimento da lei é inescusável. O erro sobre a\r\nilicitude do fato, se inevitável, isenta de pena; se evitável, poderá diminuí-la de um\r\nsexto a um terço.            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 22",
+        "conteudo": "- Se o fato é cometido sob coaçăo irresistível ou em\r\nestrita obedięncia a ordem, năo manifestamente ilegal, de superior hierárquico, só é\r\npunível o autor da coaçăo ou da ordem.            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 23",
+        "conteudo": "- Năo há crime quando o agente pratica o fato:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 24",
+        "conteudo": "- Considera-se em estado de necessidade quem pratica o fato\r\npara salvar de perigo atual, que năo provocou por sua vontade, nem podia de outro modo\r\nevitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, năo era\r\nrazoável exigir-se.            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 25",
+        "conteudo": "- Entende-se em legítima defesa quem, usando moderadamente\r\ndos meios necessários, repele injusta agressăo, atual ou iminente, a direito seu ou de\r\noutrem.            \n  (Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)\n         \n(Vide ADPF \n779)"
+    },
+    {
+        "numero": "Art. 26",
+        "conteudo": "- É isento de pena o agente que, por doença mental ou\r\ndesenvolvimento mental incompleto ou retardado, era, ao tempo da açăo ou da omissăo,\r\ninteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo\r\ncom esse entendimento.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 27\n",
+        "conteudo": " - Os menores de 18 (dezoito) anos săo penalmente\r\ninimputáveis, ficando sujeitos ŕs normas estabelecidas na legislaçăo especial.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 28",
+        "conteudo": "- Năo excluem a imputabilidade penal:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 29",
+        "conteudo": "- Quem, de qualquer modo, concorre para o crime incide nas\r\npenas a este cominadas, na medida de sua culpabilidade.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 30",
+        "conteudo": "- Năo se comunicam as circunstâncias e as condiçőes de\r\ncaráter pessoal, salvo quando elementares do crime.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 31",
+        "conteudo": "- O ajuste, a determinaçăo ou instigaçăo e o auxílio,\r\nsalvo disposiçăo expressa em contrário, năo săo puníveis, se o crime năo chega,\r\npelo menos, a ser tentado.            \n  (Redaçăo dada\r\npela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 32",
+        "conteudo": "- As penas săo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 33",
+        "conteudo": "- A pena de reclusăo deve ser cumprida em regime fechado,\r\nsemi-aberto ou aberto. A de detençăo, em regime semi-aberto, ou aberto, salvo\r\nnecessidade de transferęncia a regime fechado.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 34\n",
+        "conteudo": " - O condenado será submetido, no início do\r\ncumprimento da pena, a exame criminológico de classificaçăo para individualizaçăo da\r\nexecuçăo.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 35\n",
+        "conteudo": " - Aplica-se a norma do art. 34 deste Código, caput,\r\nao condenado que inicie o cumprimento da pena em regime semi-aberto.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 36",
+        "conteudo": "- O regime aberto baseia-se na autodisciplina e senso de\r\nresponsabilidade do condenado.            \n  (Redaçăo dada\r\npela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 37",
+        "conteudo": "- As mulheres cumprem pena em estabelecimento próprio,\r\nobservando-se os deveres e direitos inerentes ŕ sua condiçăo pessoal, bem como, no que\r\ncouber, o disposto neste Capítulo.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 38",
+        "conteudo": "- O preso conserva todos os direitos năo atingidos pela\r\nperda da liberdade, impondo-se a todas as autoridades o respeito ŕ sua integridade\r\nfísica e moral.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 39",
+        "conteudo": "- O trabalho do preso será sempre remunerado, sendo-lhe\r\ngarantidos os benefícios da Previdęncia Social.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 40",
+        "conteudo": "- A legislaçăo especial regulará a matéria prevista nos\r\narts. 38 e 39 deste Código, bem como especificará os deveres e direitos do preso, os\r\ncritérios para revogaçăo e transferęncia dos regimes e estabelecerá as infraçőes\r\ndisciplinares e correspondentes sançőes.            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 41",
+        "conteudo": "- O condenado a quem sobrevém doença mental deve ser\r\nrecolhido a hospital de custódia e tratamento psiquiátrico ou, ŕ falta, a outro\r\nestabelecimento adequado.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 42",
+        "conteudo": "- Computam-se, na pena privativa de liberdade e na medida\r\nde segurança, o tempo de prisăo provisória, no Brasil ou no estrangeiro, o de prisăo\r\nadministrativa e o de internaçăo em qualquer dos estabelecimentos referidos no artigo\r\nanterior.            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 11.7.1984)"
+    },
+    {
+        "numero": "Art. 43",
+        "conteudo": "- As penas restritivas de direitos săo:            \n    \t\t(Redaçăo dada pela Lei nş 7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 43.",
+        "conteudo": "As penas restritivas de direitos săo:            \n  \t\t\t(Redaçăo dada pela Lei nş 9.714, de 1998)"
+    },
+    {
+        "numero": "Art. 44",
+        "conteudo": "- As \r\npenas restritivas de direitos săo autônomas e substituem as privativas de \r\nliberdade, quando:            \n   (Redaçăo dada \r\npela Lei nş 7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 44.",
+        "conteudo": "As penas restritivas de direitos săo autônomas e\r\nsubstituem as privativas de liberdade, quando:            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 9.714, de 1998)"
+    },
+    {
+        "numero": "Art. 45",
+        "conteudo": "- A pena restritiva de direitos converte-se em privativa\r\nde liberdade, pelo tempo da pena aplicada, quando:                \n\t\t\t(Redaçăo dada pela Lei nş 7.209, de 1984)"
+    },
+    {
+        "numero": "Art. 45.",
+        "conteudo": "Na aplicaçăo da substituiçăo prevista no artigo\r\nanterior, proceder-se-á na forma deste e dos arts. 46, 47 e 48.            \n  \t\t\t(Redaçăo dada pela Lei nş 9.714, de 1998)"
+    },
+    {
+        "numero": "Art. 46",
+        "conteudo": "- A prestaçăo de serviços a comunidade consiste na\r\natribuiçăo ao condenado de tarefas gratuitas junto a entidades assistęncias, hospitais,\r\nescolas, orfanatos e outros estabelecimentos congęneres, em programas comunitários ou\r\nestatais.            \n   (Redaçăo dada pela Lei nş 7.209,\r\nde 1984)"
+    },
+    {
+        "numero": "Art. 46.",
+        "conteudo": "A prestaçăo de serviços ŕ comunidade ou a entidades\r\npúblicas é aplicável ŕs condenaçőes superiores a seis meses de privaçăo da\r\nliberdade.            \n  (Redaçăo dada pela Lei nş 9.714, de 1998)"
+    },
+    {
+        "numero": "Art. 47",
+        "conteudo": "- As penas de interdiçăo temporária de direitos săo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 48",
+        "conteudo": "- A limitaçăo de fim de semana consiste na obrigaçăo de\r\npermanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou\r\noutro estabelecimento adequado.            \n   (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 49",
+        "conteudo": "- A pena de multa consiste no pagamento ao fundo\r\npenitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no\r\nmínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 50",
+        "conteudo": "- A multa deve ser paga dentro de 10 (dez) dias depois de\r\ntransitada em julgado a sentença. A requerimento do condenado e conforme as\r\ncircunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 51",
+        "conteudo": "\r\n- A multa converte-se em pena de detençăo, quando o\r\ncondenado solvente deixa de paga-lá ou frustra a sua execuçăo.            \n   \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)\n   \t\t\t                (Revogado\r\npela Lei nş 9.268, de 1ş.4.1996)"
+    },
+    {
+        "numero": "Art. 51",
+        "conteudo": "- Transitada em julgado a sentença condenatória, a multa\r\nserá considerada dívida de valor, aplicando-se-lhes as normas da legislaçăo relativa\r\nŕ dívida ativa da Fazenda Pública, inclusive no que concerne ŕs causas interruptivas e\r\nsuspensivas da prescriçăo.            \n  (Redaçăo dada pela Lei\r\nnş 9.268, de 1ş.4.1996)\n              (Vide ADIN 3150)"
+    },
+    {
+        "numero": "Art. 51.",
+        "conteudo": "Transitada em julgado a sentença condenatória, a multa será executada \r\n\t\tperante o juiz da execuçăo penal e será considerada dívida de valor, \r\n\t\taplicáveis as normas relativas ŕ dívida ativa da Fazenda Pública, \r\n\t\tinclusive no que concerne ŕs causas interruptivas e suspensivas da \r\n\t\tprescriçăo.           \n\t\t\t(Redaçăo dada \n\t\t\tpela Lei nş 13.964, de 2019)    \n\n(Vide ADI 7032)"
+    },
+    {
+        "numero": "Art. 52",
+        "conteudo": "- É suspensa a execuçăo da pena de multa, se sobrevém\r\nao condenado doença mental.            \n  (Redaçăo dada\r\npela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 53",
+        "conteudo": "- As penas privativas de liberdade tęm seus limites\r\nestabelecidos na sançăo correspondente a cada tipo legal de crime.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 54",
+        "conteudo": "- As penas restritivas de direitos săo aplicáveis,\r\nindependentemente de cominaçăo na parte especial, em substituiçăo ŕ pena privativa de\r\nliberdade, fixada em quantidade inferior a 1 (um) ano, ou nos crimes culposos.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 55",
+        "conteudo": "- As penas restritivas de direitos terăo a mesma duraçăo\r\nda pena privativa de liberdade substituída.            \n   \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 55.",
+        "conteudo": "As penas restritivas de direitos referidas nos incisos\r\nIII, IV, V e VI do art. 43 terăo a mesma duraçăo da pena privativa de liberdade\r\nsubstituída, ressalvado o disposto no § 4\n  o\n   do art. 46.            \n  (Redaçăo dada pela Lei nş 9.714, de 1998)"
+    },
+    {
+        "numero": "Art. 56",
+        "conteudo": "- As penas de interdiçăo, previstas nos incisos I e II do\r\nart. 47 deste Código, aplicam-se para todo o crime cometido no exercício de profissăo,\r\natividade, ofício, cargo ou funçăo, sempre que houver violaçăo dos deveres que lhes\r\nsăo inerentes.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 57",
+        "conteudo": "- A pena de interdiçăo, prevista no inciso III do art. 47\r\ndeste Código, aplica-se aos crimes culposos de trânsito.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 58",
+        "conteudo": "- A multa, prevista em cada tipo legal de crime, tem os\r\nlimites fixados no art. 49 e seus parágrafos deste Código.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 59",
+        "conteudo": "- O juiz, atendendo ŕ culpabilidade, aos antecedentes, ŕ\r\nconduta social, ŕ personalidade do agente, aos motivos, ŕs circunstâncias e\r\nconseqüęncias do crime, bem como ao comportamento da vítima, estabelecerá, conforme\r\nseja necessário e suficiente para reprovaçăo e prevençăo do crime:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)\n  \t\t\t  \n\n(Vide ADPF 1107)"
+    },
+    {
+        "numero": "Art. 60",
+        "conteudo": "- Na fixaçăo da pena de multa o juiz deve atender,\r\nprincipalmente, ŕ situaçăo econômica do réu.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 61",
+        "conteudo": "- Săo circunstâncias que sempre agravam a pena, quando\r\nnăo constituem ou qualificam o crime:            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 62",
+        "conteudo": "- A pena será ainda agravada em relaçăo ao agente que:              \n\t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 63",
+        "conteudo": "- Verifica-se a reincidęncia quando o agente comete novo\r\ncrime, depois de transitar em julgado a sentença que, no País ou no estrangeiro, o tenha\r\ncondenado por crime anterior.            \n  (Redaçăo dada\r\npela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 64",
+        "conteudo": "- Para efeito de reincidęncia:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 65",
+        "conteudo": "- Săo circunstâncias que sempre atenuam a pena:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 66",
+        "conteudo": "- A pena poderá ser ainda atenuada em razăo de\r\ncircunstância relevante, anterior ou posterior ao crime, embora năo prevista\r\nexpressamente em lei.            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 67",
+        "conteudo": "- No concurso de agravantes e atenuantes, a pena deve\r\naproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como\r\ntais as que resultam dos motivos determinantes do crime, da personalidade do agente e da\r\nreincidęncia.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 68",
+        "conteudo": "- A pena-base será fixada atendendo-se ao critério do\r\nart. 59 deste Código; em seguida serăo consideradas as circunstâncias atenuantes e\r\nagravantes; por último, as causas de diminuiçăo e de aumento.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 69",
+        "conteudo": "- Quando o agente, mediante mais de uma açăo ou omissăo,\r\npratica dois ou mais crimes, idęnticos ou năo, aplicam-se cumulativamente as penas\r\nprivativas de liberdade em que haja incorrido. No caso de aplicaçăo cumulativa de penas\r\nde reclusăo e de detençăo, executa-se primeiro aquela.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 70",
+        "conteudo": "- Quando o agente, mediante uma só açăo ou omissăo,\r\npratica dois ou mais crimes, idęnticos ou năo, aplica-se-lhe a mais grave das penas\r\ncabíveis ou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de um sexto\r\naté metade. As penas aplicam-se, entretanto, cumulativamente, se a açăo ou omissăo é\r\ndolosa e os crimes concorrentes resultam de desígnios autônomos, consoante o disposto no\r\nartigo anterior.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 71",
+        "conteudo": "- Quando o agente, mediante mais de uma açăo ou omissăo,\r\npratica dois ou mais crimes da mesma espécie e, pelas condiçőes de tempo, lugar,\r\nmaneira de execuçăo e outras semelhantes, devem os subseqüentes ser havidos como\r\ncontinuaçăo do primeiro, aplica-se-lhe a pena de um só dos crimes, se idęnticas, ou a\r\nmais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 72",
+        "conteudo": "- No concurso de crimes, as penas de multa săo aplicadas\r\ndistinta e integralmente.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 73",
+        "conteudo": "- Quando, por acidente ou erro no uso dos meios de\r\nexecuçăo, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa\r\ndiversa, responde como se tivesse praticado o crime contra aquela, atendendo-se ao\r\ndisposto no § 3ş do art. 20 deste Código. No caso de ser também atingida a pessoa que\r\no agente pretendia ofender, aplica-se a regra do art. 70 deste Código.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 74",
+        "conteudo": "- Fora dos casos do artigo anterior, quando, por acidente\r\nou erro na execuçăo do crime, sobrevém resultado diverso do pretendido, o agente\r\nresponde por culpa, se o fato é previsto como crime culposo; se ocorre também o\r\nresultado pretendido, aplica-se a regra do art. 70 deste Código.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 75",
+        "conteudo": "- O tempo de cumprimento das penas privativas de liberdade\r\nnăo pode ser superior a 30 (trinta) anos.            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 75.",
+        "conteudo": "O \r\n\t\ttempo de cumprimento das penas privativas de liberdade năo pode ser \r\n\t\tsuperior a 40 (quarenta) anos.           \n\t\t\t(Redaçăo dada \n\t\t\tpela Lei nş 13.964, de 2019)"
+    },
+    {
+        "numero": "Art. 76",
+        "conteudo": "- No concurso de infraçőes, executar-se-á primeiramente\r\na pena mais grave.            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 77",
+        "conteudo": "- A execuçăo da pena privativa de liberdade, năo\r\nsuperior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 78",
+        "conteudo": "- Durante o prazo da suspensăo, o condenado ficará\r\nsujeito ŕ observaçăo e ao cumprimento das condiçőes estabelecidas pelo juiz.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 79",
+        "conteudo": "- A sentença poderá especificar outras condiçőes a que\r\nfica subordinada a suspensăo, desde que adequadas ao fato e ŕ situaçăo pessoal do\r\ncondenado.            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 11.7.1984)"
+    },
+    {
+        "numero": "Art. 80",
+        "conteudo": "- A suspensăo năo se estende ŕs penas restritivas de\r\ndireitos nem ŕ multa.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 81",
+        "conteudo": "- A suspensăo será revogada se, no curso do prazo, o\r\nbeneficiário:            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 82",
+        "conteudo": "- Expirado o prazo sem que tenha havido revogaçăo,\r\nconsidera-se extinta a pena privativa de liberdade.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 83",
+        "conteudo": "- O juiz poderá conceder livramento condicional ao\r\ncondenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 84",
+        "conteudo": "- As penas que correspondem a infraçőes diversas devem\r\nsomar-se para efeito do livramento.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 85",
+        "conteudo": "- A sentença especificará as condiçőes a que fica\r\nsubordinado o livramento.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 86",
+        "conteudo": "- Revoga-se o livramento, se o liberado vem a ser condenado\r\na pena privativa de liberdade, em sentença irrecorrível:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 87",
+        "conteudo": "- O juiz poderá, também, revogar o livramento, se o\r\nliberado deixar de cumprir qualquer das obrigaçőes constantes da sentença, ou for\r\nirrecorrivelmente condenado, por crime ou contravençăo, a pena que năo seja privativa\r\nde liberdade.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 88",
+        "conteudo": "- Revogado o livramento, năo poderá ser novamente\r\nconcedido, e, salvo quando a revogaçăo resulta de condenaçăo por outro crime anterior\r\nŕquele benefício, năo se desconta na pena o tempo em que esteve solto o condenado.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 89",
+        "conteudo": "- O juiz năo poderá declarar extinta a pena, enquanto\r\nnăo passar em julgado a sentença em processo a que responde o liberado, por crime\r\ncometido na vigęncia do livramento.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 90",
+        "conteudo": "- Se até o seu término o livramento năo é revogado,\r\nconsidera-se extinta a pena privativa de liberdade.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 91",
+        "conteudo": "- Săo efeitos da condenaçăo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 91-A.",
+        "conteudo": "Na \r\n\t\thipótese de condenaçăo por infraçőes ŕs quais a lei comine pena máxima \r\n\t\tsuperior a 6 (seis) anos de reclusăo, poderá ser decretada a perda, como \r\n\t\tproduto ou proveito do crime, dos bens correspondentes ŕ diferença entre \r\n\t\to valor do patrimônio do condenado e aquele que seja compatível com o \r\n\t\tseu rendimento lícito.            \n\t\t\t(Incluído pela \n\t\t\tLei nş 13.964, de 2019)"
+    },
+    {
+        "numero": "Art. 92",
+        "conteudo": "- Săo também efeitos da condenaçăo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 93",
+        "conteudo": "- A reabilitaçăo alcança quaisquer penas aplicadas em\r\nsentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo\r\ne condenaçăo.            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 94",
+        "conteudo": "- A reabilitaçăo poderá ser requerida, decorridos 2\r\n(dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua\r\nexecuçăo, computando-se o período de prova da suspensăo e o do livramento condicional,\r\nse năo sobrevier revogaçăo, desde que o condenado:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 95",
+        "conteudo": "- A reabilitaçăo será revogada, de ofício ou a\r\nrequerimento do Ministério Público, se o reabilitado for condenado, como reincidente,\r\npor decisăo definitiva, a pena que năo seja de multa.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 96.",
+        "conteudo": "As medidas de segurança săo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 97",
+        "conteudo": "- Se o agente for inimputável, o juiz determinará sua\r\ninternaçăo (art. 26). Se, todavia, o fato previsto como crime for punível com\r\ndetençăo, poderá o juiz submetę-lo a tratamento ambulatorial.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 98",
+        "conteudo": "- Na hipótese do parágrafo único do art. 26 deste\r\nCódigo e necessitando o condenado de especial tratamento curativo, a pena privativa de\r\nliberdade pode ser substituída pela internaçăo, ou tratamento ambulatorial, pelo prazo\r\nmínimo de 1 (um) a 3 (tręs) anos, nos termos do artigo anterior e respectivos §§ 1ş a\r\n4ş.                    \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 11.7.1984)"
+    },
+    {
+        "numero": "Art. 99",
+        "conteudo": "- O internado será recolhido a estabelecimento dotado de\r\ncaracterísticas hospitalares e será submetido a tratamento.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 100",
+        "conteudo": "- A açăo penal é pública, salvo quando a lei\r\nexpressamente a declara privativa do ofendido.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 101",
+        "conteudo": "- Quando a lei considera como elemento ou circunstâncias\r\ndo tipo legal fatos que, por si mesmos, constituem crimes, cabe açăo pública em\r\nrelaçăo ŕquele, desde que, em relaçăo a qualquer destes, se deva proceder por\r\niniciativa do Ministério Público.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 102",
+        "conteudo": "- A representaçăo será irretratável depois de\r\noferecida a denúncia.            \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 103",
+        "conteudo": "- Salvo disposiçăo expressa em contrário, o ofendido\r\ndecai do direito de queixa ou de representaçăo se năo o exerce dentro do prazo de 6\r\n(seis) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do\r\n§ 3ş do art. 100 deste Código, do dia em que se esgota o prazo para oferecimento da\r\ndenúncia.            \n  (Redaçăo dada pela Lei nş\r\n7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 104",
+        "conteudo": "- O direito de queixa năo pode ser exercido quando\r\nrenunciado expressa ou tacitamente.            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 105",
+        "conteudo": "- O perdăo do ofendido, nos crimes em que somente se\r\nprocede mediante queixa, obsta ao prosseguimento da açăo.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 106",
+        "conteudo": "- O perdăo, no processo ou fora dele, expresso ou\r\ntácito:            \n  (Redaçăo dada pela Lei nş 7.209,\r\nde 11.7.1984)"
+    },
+    {
+        "numero": "Art. 107",
+        "conteudo": "- Extingue-se a punibilidade:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 108",
+        "conteudo": "- A extinçăo da punibilidade de crime que é\r\npressuposto, elemento constitutivo ou circunstância agravante de outro năo se estende a\r\neste. Nos crimes conexos, a extinçăo da punibilidade de um deles năo impede, quanto aos\r\noutros, a agravaçăo da pena resultante da conexăo.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 109",
+        "conteudo": "- A prescriçăo, antes de transitar em julgado a\r\nsentença final, salvo o disposto nos §§ 1ş e 2ş do art. 110 deste Código, regula-se\r\npelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:            \n   \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 109. ",
+        "conteudo": "A prescriçăo, antes de transitar em julgado a sentença final, \r\nsalvo o disposto no § 1o do art. 110 deste Código, regula-se \r\n\t\tpelo máximo da pena privativa de liberdade cominada ao crime, \r\n\t\tverificando-se:            \n  (Redaçăo dada pela Lei nş 12.234, de 2010)."
+    },
+    {
+        "numero": "Art. 110",
+        "conteudo": "- A prescriçăo depois de transitar em julgado a\r\nsentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no\r\nartigo anterior, os quais se aumentam de um terço, se o condenado é reincidente.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 111",
+        "conteudo": "- A prescriçăo, antes de transitar em julgado a\r\nsentença final, começa a correr:            \n  (Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 112",
+        "conteudo": "- No caso do art. 110 deste Código, a prescriçăo\r\ncomeça a correr:            \n  (Redaçăo dada pela Lei\r\nnş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 113",
+        "conteudo": "- No caso de evadir-se o condenado ou de revogar-se o\r\nlivramento condicional, a prescriçăo é regulada pelo tempo que resta da pena.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 114",
+        "conteudo": "- A prescriçăo opera-se em dois anos, quando a pena de\r\nmulta é a única cominada, foi a única aplicada ou é a que ainda năo foi cumprida.            \n   \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 114",
+        "conteudo": "- A prescriçăo da pena de multa ocorrerá:                \n  \t\t\t(Redaçăo dada pela Lei nş 9.268, de 1ş.4.1996)"
+    },
+    {
+        "numero": "Art. 115",
+        "conteudo": "- Săo reduzidos de metade os prazos de prescriçăo\r\nquando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da\r\nsentença, maior de 70 (setenta) anos.        \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 116",
+        "conteudo": "- Antes de passar em julgado a sentença final, a\r\nprescriçăo năo corre:        \n  (Redaçăo dada pela\r\nLei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 117",
+        "conteudo": "- O curso da prescriçăo interrompe-se:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 118",
+        "conteudo": "- As penas mais leves prescrevem com as mais graves.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 119",
+        "conteudo": "- No caso de concurso de crimes, a extinçăo da\r\npunibilidade incidirá sobre a pena de cada um, isoladamente.            \n  \t\t\t(Redaçăo dada pela Lei nş 7.209, de\r\n11.7.1984)"
+    },
+    {
+        "numero": "Art. 120",
+        "conteudo": "- A sentença que conceder perdăo judicial năo será\r\nconsiderada para efeitos de reincidęncia.            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 7.209, de 11.7.1984)"
+    },
+    {
+        "numero": "Art. 121.",
+        "conteudo": "Matar alguem:"
+    },
+    {
+        "numero": "Art. 121-A.",
+        "conteudo": "Matar mulher por razőes da \n\t\t\tcondiçăo do sexo feminino:      \n\n(Incluído pela \n\t\t\tLei nş 14.994, de 2024)"
+    },
+    {
+        "numero": "Art. 122",
+        "conteudo": "- Induzir ou instigar alguém a suicidar-se ou prestar-lhe auxílio para que o\r\nfaça:"
+    },
+    {
+        "numero": "Art. 122.",
+        "conteudo": "Induzir ou instigar alguém a \n\t\t\tsuicidar-se ou a praticar automutilaçăo ou prestar-lhe auxílio \n\t\t\tmaterial para que o faça:          \n\t\t\t(Redaçăo dada \n\t\t\tpela Lei nş 13.968, de 2019)"
+    },
+    {
+        "numero": "Art. 123",
+        "conteudo": "- Matar, sob a influęncia do estado puerperal, o próprio filho, durante o\r\nparto ou logo após:"
+    },
+    {
+        "numero": "Art. 124",
+        "conteudo": "- Provocar aborto em si mesma ou consentir que outrem lho provoque:            \n  \t\t\t(Vide ADPF 54)"
+    },
+    {
+        "numero": "Art. 125",
+        "conteudo": "- Provocar aborto, sem o consentimento da gestante:"
+    },
+    {
+        "numero": "Art. 126",
+        "conteudo": "- Provocar aborto com o consentimento da gestante:            \n  \t\t\t(Vide ADPF 54)"
+    },
+    {
+        "numero": "Art. 127",
+        "conteudo": "- As penas cominadas nos dois artigos anteriores săo aumentadas de um terço,\r\nse, em conseqüęncia do aborto ou dos meios empregados para provocá-lo, a gestante sofre\r\nlesăo corporal de natureza grave; e săo duplicadas, se, por qualquer dessas causas, lhe\r\nsobrevém a morte."
+    },
+    {
+        "numero": "Art. 128",
+        "conteudo": "- Năo se pune o aborto praticado por médico:            \n  \t\t\t(Vide ADPF 54)"
+    },
+    {
+        "numero": "Art. 129.",
+        "conteudo": "Ofender a integridade corporal ou a saúde de outrem:"
+    },
+    {
+        "numero": "Art. 130",
+        "conteudo": "- Expor alguém, por meio de relaçőes sexuais ou qualquer ato libidinoso, a\r\ncontágio de moléstia venérea, de que sabe ou deve saber que está contaminado:"
+    },
+    {
+        "numero": "Art. 131",
+        "conteudo": "- Praticar, com o fim de transmitir a outrem moléstia grave de que está\r\ncontaminado, ato capaz de produzir o contágio:"
+    },
+    {
+        "numero": "Art. 132",
+        "conteudo": "- Expor a vida ou a saúde de outrem a perigo direto e iminente:"
+    },
+    {
+        "numero": "Art. 133",
+        "conteudo": "- Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou\r\nautoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do\r\nabandono:"
+    },
+    {
+        "numero": "Art. 134",
+        "conteudo": "- Expor ou abandonar recém-nascido, para ocultar desonra própria:"
+    },
+    {
+        "numero": "Art. 135",
+        "conteudo": "- Deixar de prestar assistęncia, quando possível fazę-lo sem risco pessoal,\r\nŕ criança abandonada ou extraviada, ou ŕ pessoa inválida ou ferida, ao desamparo ou em\r\ngrave e iminente perigo; ou năo pedir, nesses casos, o socorro da autoridade pública:"
+    },
+    {
+        "numero": "Art. 136",
+        "conteudo": "- Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou\r\nvigilância, para fim de educaçăo, ensino, tratamento ou custódia, quer privando-a de\r\nalimentaçăo ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou\r\ninadequado, quer abusando de meios de correçăo ou disciplina:"
+    },
+    {
+        "numero": "Art. 137",
+        "conteudo": "- Participar de rixa, salvo para separar os contendores:"
+    },
+    {
+        "numero": "Art. 138",
+        "conteudo": "- Caluniar alguém, imputando-lhe falsamente fato definido como crime:"
+    },
+    {
+        "numero": "Art. 139",
+        "conteudo": "- Difamar alguém, imputando-lhe fato ofensivo ŕ sua reputaçăo:"
+    },
+    {
+        "numero": "Art. 140",
+        "conteudo": "- Injuriar alguém, ofendendo-lhe a dignidade ou o decoro:"
+    },
+    {
+        "numero": "Art. 141",
+        "conteudo": "- As penas cominadas neste Capítulo aumentam-se de um terço, se qualquer dos\r\ncrimes é cometido:"
+    },
+    {
+        "numero": "Art. 142",
+        "conteudo": "- Năo constituem injúria ou difamaçăo punível:"
+    },
+    {
+        "numero": "Art. 143",
+        "conteudo": "- O querelado que, antes da sentença, se retrata cabalmente da calúnia ou da\r\ndifamaçăo, fica isento de pena."
+    },
+    {
+        "numero": "Art. 144",
+        "conteudo": "- Se, de referęncias, alusőes ou frases, se infere calúnia, difamaçăo ou\r\ninjúria, quem se julga ofendido pode pedir explicaçőes em juízo. Aquele que se recusa\r\na dá-las ou, a critério do juiz, năo as dá satisfatórias, responde pela ofensa."
+    },
+    {
+        "numero": "Art. 145",
+        "conteudo": "- Nos crimes previstos neste Capítulo somente se procede mediante queixa,\r\nsalvo quando, no caso do art. 140, § 2ş, da violęncia resulta lesăo corporal."
+    },
+    {
+        "numero": "Art. 146",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave ameaça, ou depois de lhe\r\nhaver reduzido, por qualquer outro meio, a capacidade de resistęncia, a năo fazer o que\r\na lei permite, ou a fazer o que ela năo manda:"
+    },
+    {
+        "numero": "Art. 146-A.",
+        "conteudo": "Intimidar sistematicamente, individualmente ou em grupo, \r\n\t\t\tmediante violęncia física ou psicológica, uma ou mais pessoas, de \r\n\t\t\tmodo intencional e repetitivo, sem motivaçăo evidente, por meio de \r\n\t\t\tatos de intimidaçăo, de humilhaçăo ou de discriminaçăo ou de açőes \r\n\t\t\tverbais, morais, sexuais, sociais, psicológicas, físicas, materiais \r\n\t\t\tou virtuais:  \n\t\t\t\n(Incluído pela \n\t\t\tLei nş 14.811, de 2024)"
+    },
+    {
+        "numero": "Art. 147",
+        "conteudo": "- Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio\r\nsimbólico, de causar-lhe mal injusto e grave:"
+    },
+    {
+        "numero": "Art. 147-B.",
+        "conteudo": " Causar dano emocional ŕ mulher que a prejudique e perturbe \r\n\t\tseu pleno desenvolvimento ou que vise a degradar ou a controlar suas \r\n\t\taçőes, comportamentos, crenças e decisőes, mediante ameaça, \r\n\t\tconstrangimento, humilhaçăo, manipulaçăo, isolamento, chantagem, \r\n\t\tridicularizaçăo, limitaçăo do direito de ir e vir ou qualquer outro meio \r\n\t\tque cause prejuízo ŕ sua saúde psicológica e autodeterminaçăo:     \n\n(Incluído pela Lei nş \r\n14.188, de 2021) \n\n\r\n\t\tPena - reclusăo, de 6 (seis) meses a 2 (dois) anos, e multa, se a \r\n\t\tconduta năo constitui crime mais grave.    \n\n(Incluído pela Lei nş \r\n14.188, de 2021) \n\n\nParágrafo único. A pena é aumentada de metade \n\t\t\tse o crime é cometido mediante uso de inteligęncia artificial ou de \n\t\t\tqualquer outro recurso tecnológico que altere imagem ou som da \n\t\t\tvítima.   \n\t\t\t(Incluído pela \n\t\t\tLei nş 15.123, de 2025)"
+    },
+    {
+        "numero": "Art. 148",
+        "conteudo": "- Privar alguém de sua liberdade, mediante seqüestro ou cárcere privado:            \n  \t\t\t(Vide Lei nş 10.446, de 2002)"
+    },
+    {
+        "numero": "Art. 149",
+        "conteudo": "- Reduzir alguém a condiçăo análoga ŕ de escravo:"
+    },
+    {
+        "numero": "Art. 149.",
+        "conteudo": "Reduzir alguém a condiçăo análoga ŕ de escravo,\r\nquer submetendo-o a trabalhos forçados ou a jornada exaustiva, quer sujeitando-o a\r\ncondiçőes degradantes de trabalho, quer restringindo, por qualquer meio, sua locomoçăo\r\nem razăo de dívida contraída com o empregador ou preposto:            \n  \t\t\t(Redaçăo dada pela Lei nş 10.803, de 11.12.2003)"
+    },
+    {
+        "numero": "Art. 149-A. ",
+        "conteudo": "Agenciar, aliciar, recrutar, \r\ntransportar, transferir, comprar, alojar ou acolher pessoa, mediante grave \r\nameaça, violęncia, coaçăo, fraude ou abuso, com a finalidade de:\n               (Incluído pela Lei nş 13.344, de 2016)\n   \t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 150",
+        "conteudo": "- Entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade\r\nexpressa ou tácita de quem de direito, em casa alheia ou em suas dependęncias:"
+    },
+    {
+        "numero": "Art. 151",
+        "conteudo": "- Devassar indevidamente o conteúdo de correspondęncia fechada, dirigida a\r\noutrem:"
+    },
+    {
+        "numero": "Art. 152",
+        "conteudo": "- Abusar da condiçăo de sócio ou empregado de estabelecimento comercial ou\r\nindustrial para, no todo ou em parte, desviar, sonegar, subtrair ou suprimir\r\ncorrespondęncia, ou revelar a estranho seu conteúdo:"
+    },
+    {
+        "numero": "Art. 153",
+        "conteudo": "- Divulgar alguém, sem justa causa, conteúdo de\r\ndocumento particular ou de correspondęncia confidencial, de que é destinatário ou\r\ndetentor, e cuja divulgaçăo possa produzir dano a outrem:"
+    },
+    {
+        "numero": "Art. 154",
+        "conteudo": "- Revelar alguém, sem justa causa, segredo, de que tem cięncia em razăo de\r\nfunçăo, ministério, ofício ou profissăo, e cuja revelaçăo possa produzir dano a\r\noutrem:"
+    },
+    {
+        "numero": "Art. 154-A.",
+        "conteudo": " Invadir dispositivo \r\ninformático alheio, conectado ou năo ŕ rede de computadores, mediante violaçăo \r\nindevida de mecanismo de segurança e com o fim de obter, adulterar ou destruir \r\ndados ou informaçőes sem autorizaçăo expressa ou tácita do titular do \r\ndispositivo ou instalar vulnerabilidades para obter vantagem ilícita:            \n  \t\t\t(Incluído pela Lei nş 12.737, de \r\n2012)\n      Vigęncia"
+    },
+    {
+        "numero": "Art. 154-A.",
+        "conteudo": "Invadir dispositivo informático de uso alheio, conectado \n\t\t\tou năo ŕ rede de computadores, com o fim de obter, adulterar ou \n\t\t\tdestruir dados ou informaçőes sem autorizaçăo expressa ou tácita do \n\t\t\tusuário do dispositivo ou de instalar vulnerabilidades para obter \n\t\t\tvantagem ilícita:      \n\t\t\t(Redaçăo dada pela Lei nş \n\t\t\t14.155, de 2021)"
+    },
+    {
+        "numero": "Art. 154-B.",
+        "conteudo": " Nos crimes definidos no art. 154-A, somente \r\n\t\tse procede mediante representaçăo, salvo se o crime é cometido contra a \r\n\t\tadministraçăo pública direta ou indireta de qualquer dos Poderes da \r\n\t\tUniăo, Estados, Distrito Federal ou Municípios ou contra empresas \r\n\t\tconcessionárias de serviços públicos.            \n  \t\t\t(Incluído pela Lei nş 12.737, de \r\n2012)\n      Vigęncia"
+    },
+    {
+        "numero": "Art. 155",
+        "conteudo": "- Subtrair, para si ou para outrem, coisa alheia móvel:"
+    },
+    {
+        "numero": "Art. 156",
+        "conteudo": "- Subtrair o condômino, co-herdeiro ou sócio, para si ou para outrem, a quem\r\nlegitimamente a detém, a coisa comum:"
+    },
+    {
+        "numero": "Art. 157",
+        "conteudo": "- Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça\r\nou violęncia a pessoa, ou depois de havę-la, por qualquer meio, reduzido ŕ\r\nimpossibilidade de resistęncia:"
+    },
+    {
+        "numero": "Art. 158",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave ameaça, e com o intuito\r\nde obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se\r\nfaça ou deixar de fazer alguma coisa:"
+    },
+    {
+        "numero": "Art. 159",
+        "conteudo": "- Seqüestrar pessoa com o fim de obter, para si ou para\r\noutrem, qualquer vantagem, como condiçăo ou preço do resgate:            \n \t\tVide Lei nş 8.072, de 25.7.90\n             (Vide Lei nş 10.446, de 2002)"
+    },
+    {
+        "numero": "Art. 160",
+        "conteudo": "- Exigir ou receber, como garantia de dívida, abusando da situaçăo de\r\nalguém, documento que pode dar causa a procedimento criminal contra a vítima ou contra\r\nterceiro:"
+    },
+    {
+        "numero": "Art. 161",
+        "conteudo": "- Suprimir ou deslocar tapume, marco, ou qualquer outro sinal indicativo de\r\nlinha divisória, para apropriar-se, no todo ou em parte, de coisa imóvel alheia:"
+    },
+    {
+        "numero": "Art. 162",
+        "conteudo": "- Suprimir ou alterar, indevidamente, em gado ou rebanho alheio, marca ou\r\nsinal indicativo de propriedade:"
+    },
+    {
+        "numero": "Art. 163",
+        "conteudo": "- Destruir, inutilizar ou deteriorar coisa alheia:"
+    },
+    {
+        "numero": "Art. 164",
+        "conteudo": "- Introduzir ou deixar animais em propriedade alheia, sem consentimento de\r\nquem de direito, desde que o fato resulte prejuízo:"
+    },
+    {
+        "numero": "Art. 165",
+        "conteudo": "- Destruir, inutilizar ou deteriorar coisa tombada pela autoridade competente\r\nem virtude de valor artístico, arqueológico ou histórico:"
+    },
+    {
+        "numero": "Art. 166",
+        "conteudo": "- Alterar, sem licença da autoridade competente, o aspecto de local\r\nespecialmente protegido por lei:"
+    },
+    {
+        "numero": "Art. 167",
+        "conteudo": "- Nos casos do art. 163, do inciso IV do seu parágrafo e do art. 164, somente\r\nse procede mediante queixa."
+    },
+    {
+        "numero": "Art. 168",
+        "conteudo": "- Apropriar-se de coisa alheia móvel, de que tem a posse ou a detençăo:"
+    },
+    {
+        "numero": "Art. 168-A.",
+        "conteudo": "Deixar de repassar ŕ previdęncia social as\r\ncontribuiçőes recolhidas dos contribuintes, no prazo e forma legal ou convencional:            \n  \t\t\t(Incluído pela Lei nş 9.983, de 2000)"
+    },
+    {
+        "numero": "Art. 169",
+        "conteudo": "- Apropriar-se alguém de coisa alheia vinda ao seu poder por erro, caso\r\nfortuito ou força da natureza:"
+    },
+    {
+        "numero": "Art. 170",
+        "conteudo": "- Nos crimes previstos neste Capítulo, aplica-se o disposto no art. 155, §\r\n2ş."
+    },
+    {
+        "numero": "Art. 171",
+        "conteudo": "- Obter, para si ou para outrem, vantagem ilícita, em\r\nprejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou\r\nqualquer outro meio fraudulento:"
+    },
+    {
+        "numero": "Art. 171-A.",
+        "conteudo": "Organizar, gerir, ofertar ou \r\n\t\t\tdistribuir carteiras ou intermediar operaçőes que envolvam ativos \r\n\t\t\tvirtuais, valores mobiliários ou quaisquer ativos financeiros com o \r\n\t\t\tfim de obter vantagem ilícita, em prejuízo alheio, induzindo ou \r\n\t\t\tmantendo alguém em erro, mediante artifício, ardil ou qualquer outro \r\n\t\t\tmeio fraudulento.        \n\n\n(Incluído pela \n\t\t\tLei nş 14.478, de 2022)  \n\t\t\tVigęncia"
+    },
+    {
+        "numero": "Art. 172.",
+        "conteudo": "Expedir duplicata que năo corresponda a venda efetiva de mercadoria,\r\nentregue real ou simbolicamente com a fatura respectiva:"
+    },
+    {
+        "numero": "Art. 172.",
+        "conteudo": "Expedir ou aceitar\r\nduplicata que năo corresponda, juntamente com a fatura respectiva, a uma venda efetiva de\r\nbens ou a uma real prestaçăo de serviço.            \n   (Redaçăo\r\ndada pela Lei nş 5.474. de 1968)"
+    },
+    {
+        "numero": "Art. 172",
+        "conteudo": "- Emitir fatura, duplicata ou nota de venda que năo\r\ncorresponda ŕ mercadoria vendida, em quantidade ou qualidade, ou ao serviço prestado.            \n  \t\t\t(Redaçăo dada pela Lei nş 8.137, de 27.12.1990)"
+    },
+    {
+        "numero": "Art. 173",
+        "conteudo": "- Abusar, em proveito próprio ou alheio, de necessidade, paixăo ou\r\ninexperięncia de menor, ou da alienaçăo ou debilidade mental de outrem, induzindo\r\nqualquer deles ŕ prática de ato suscetível de produzir efeito jurídico, em prejuízo\r\npróprio ou de terceiro:"
+    },
+    {
+        "numero": "Art. 174",
+        "conteudo": "- Abusar, em proveito próprio ou alheio, da inexperięncia ou da simplicidade\r\nou inferioridade mental de outrem, induzindo-o ŕ prática de jogo ou aposta, ou ŕ\r\nespeculaçăo com títulos ou mercadorias, sabendo ou devendo saber que a operaçăo é\r\nruinosa:"
+    },
+    {
+        "numero": "Art. 175",
+        "conteudo": "- Enganar, no exercício de atividade comercial, o adquirente ou consumidor:"
+    },
+    {
+        "numero": "Art. 176",
+        "conteudo": "- Tomar refeiçăo em restaurante, alojar-se em hotel ou utilizar-se de meio\r\nde transporte sem dispor de recursos para efetuar o pagamento:"
+    },
+    {
+        "numero": "Art. 177",
+        "conteudo": "- Promover a fundaçăo de sociedade por açőes, fazendo, em prospecto ou em\r\ncomunicaçăo ao público ou ŕ assembléia, afirmaçăo falsa sobre a constituiçăo da\r\nsociedade, ou ocultando fraudulentamente fato a ela relativo:"
+    },
+    {
+        "numero": "Art. 178",
+        "conteudo": "- Emitir conhecimento de depósito ou warrant, em\r\ndesacordo com disposiçăo legal:"
+    },
+    {
+        "numero": "Art. 179",
+        "conteudo": "- Fraudar execuçăo, alienando, desviando, destruindo ou danificando bens, ou\r\nsimulando dívidas:"
+    },
+    {
+        "numero": "Art. 180.",
+        "conteudo": "Adquirir, receber ou\r\nocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir\r\npara que terceiro, de boa fé, a adquira, receba ou oculte:            \n   \t\t\t(Redaçăo dada pela Lei nş 2.505, de 1955)"
+    },
+    {
+        "numero": "Art. 180",
+        "conteudo": "- Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou\r\nalheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a\r\nadquira, receba ou oculte:            \n  (Redaçăo\r\ndada pela Lei nş 9.426, de 1996)"
+    },
+    {
+        "numero": "Art. 181",
+        "conteudo": "- É isento de pena quem comete qualquer dos crimes previstos neste título,\r\nem prejuízo:            \n  (Vide Lei nş 10.741, de \r\n2003)"
+    },
+    {
+        "numero": "Art. 182",
+        "conteudo": "- Somente se procede mediante representaçăo, se o crime previsto neste\r\ntítulo é cometido em prejuízo:            \n  (Vide \r\nLei nş 10.741, de 2003)"
+    },
+    {
+        "numero": "Art. 183",
+        "conteudo": "- Năo se aplica o disposto nos dois artigos anteriores:"
+    },
+    {
+        "numero": "Art. 183-A.",
+        "conteudo": "Nos crimes de que trata este \n\t\t\tTítulo, quando cometidos contra as instituiçőes financeiras e os \n\t\t\tprestadores de serviço de segurança privada, de que trata o Estatuto \n\t\t\tda Segurança Privada e da Segurança das Instituiçőes Financeiras, as \n\t\t\tpenas serăo aumentadas de 1/3 (um terço) até o dobro.  \n\t\t\t(Incluído pela \n\t\t\tLei nş 14.967, de 2024)"
+    },
+    {
+        "numero": "Art. 184.",
+        "conteudo": "Violar direito autoral:            \n   \t\t\t(Redaçăo dada pela Lei nş 6.895, de 1980)"
+    },
+    {
+        "numero": "Art. 184.",
+        "conteudo": "Violar direitos de autor e os que lhe săo conexos:            \n  \t\t\t(Redaçăo dada pela Lei nş 10.695, de\r\n1ş.7.2003)"
+    },
+    {
+        "numero": "Art. 185",
+        "conteudo": "- Atribuir falsamente a alguém, mediante o uso de nome,\r\npseudônimo ou sinal por ele adotado para designar seus trabalhos, a autoria de obra\r\nliterária, científica ou artística:"
+    },
+    {
+        "numero": "Art. 186",
+        "conteudo": "- Nos crimes\r\nprevistos neste Capítulo somente se procede mediante queixa, salvo quando praticados em\r\nprejuízo de entidade de direito público, autarquia, empresa pública, sociedade de\r\neconomia mista ou fundaçăo instituída pelo poder público, e nos casos previstos nos\r\n§§ 1ş e 2ş do art. 184 desta Lei.            \n   (Redaçăo\r\ndada pela Lei nş 6.895, de 1980)"
+    },
+    {
+        "numero": "Art. 186.",
+        "conteudo": "Procede-se mediante:            \n  \t\t\t(Redaçăo dada pela Lei nş 10.695, de\r\n1ş.7.2003)"
+    },
+    {
+        "numero": "Art. 189.",
+        "conteudo": "Reproduzir, por qualquer meio, no\r\ntodo ou em parte, sem autorizaçăo, desenho ou modelo de privilégio alheio; explorar,\r\nsem autorizaçăo, desenho ou modelo de privilégio alheio; vender, expor ŕ venda ou\r\nintroduzir no país objeto que é imitaçăo ou cópia de modelo privilegiado:\n              (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 190.",
+        "conteudo": "Usar, em modelo ou desenho, de\r\nexpressăo que o dę falsamente como depositado, ou mencionar em anúncio ou papel\r\ncomercial, como depositado, desenho ou modelo que năo o seja:\n              (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 191.",
+        "conteudo": "Nos crimes previstos neste capítulo,\r\nexcetuados os dos arts. 188, e seu parágrafo, e 190, somente se procede mediante queixa.\n  \t\t\t            (Revogado pela Lei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 192.",
+        "conteudo": "Violar direito de marca de\r\nindústria ou de comércio:\n                  (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 193.",
+        "conteudo": "Reproduzir, sem autorizaçăo, no\r\ntodo ou em parte, ou imitar de modo que possa induzir em erro ou confusăo, armas,\r\nbrasőes ou distintivos públicos, nacionais ou estrangeiros, em marca de indústria ou\r\ncomércio:\n              (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 194.",
+        "conteudo": "Usar, em produto ou artigo, marca\r\nque indique procedęncia que năo é a verdadeira, ou vender ou expor ŕ venda produto ou\r\nartigo, com essa marca:\n              (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 195.",
+        "conteudo": "Nos crimes previstos neste capítulo,\r\nsalvo os dos arts. 193, e seu parágrafo, e 194, somente se procede mediante queixa.\n  \t\t\t            (Revogado pela Lei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 196.",
+        "conteudo": "Fazer concorręncia desleal:\n                  (Revogado pela\r\nLei nş 9.279, de 14.5.1996)"
+    },
+    {
+        "numero": "Art. 197",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave ameaça:"
+    },
+    {
+        "numero": "Art. 198",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave ameaça, a celebrar\r\ncontrato de trabalho, ou a năo fornecer a outrem ou năo adquirir de outrem\r\nmatéria-prima ou produto industrial ou agrícola:"
+    },
+    {
+        "numero": "Art. 199",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave ameaça, a participar ou\r\ndeixar de participar de determinado sindicato ou associaçăo profissional:"
+    },
+    {
+        "numero": "Art. 200",
+        "conteudo": "- Participar de suspensăo ou abandono coletivo de trabalho, praticando\r\nviolęncia contra pessoa ou contra coisa:"
+    },
+    {
+        "numero": "Art. 201",
+        "conteudo": "- Participar de suspensăo ou abandono coletivo de trabalho, provocando a\r\ninterrupçăo de obra pública ou serviço de interesse coletivo:"
+    },
+    {
+        "numero": "Art. 202",
+        "conteudo": "- Invadir ou ocupar estabelecimento industrial, comercial ou agrícola, com o\r\nintuito de impedir ou embaraçar o curso normal do trabalho, ou com o mesmo fim danificar\r\no estabelecimento ou as coisas nele existentes ou delas dispor:"
+    },
+    {
+        "numero": "Art. 203",
+        "conteudo": "- Frustrar, mediante fraude ou violęncia, direito\r\nassegurado pela legislaçăo do trabalho:"
+    },
+    {
+        "numero": "Art. 204",
+        "conteudo": "- Frustrar, mediante fraude ou violęncia, obrigaçăo legal relativa ŕ\r\nnacionalizaçăo do trabalho:"
+    },
+    {
+        "numero": "Art. 205",
+        "conteudo": "- Exercer atividade, de que está impedido por decisăo administrativa:"
+    },
+    {
+        "numero": "Art. 206.",
+        "conteudo": "Aliciar trabalhadores, para o fim de emigraçăo:"
+    },
+    {
+        "numero": "Art. 206",
+        "conteudo": "- Recrutar trabalhadores, mediante fraude, com o fim de\r\nlevá-los para território estrangeiro.            \n  \t\t\t(Redaçăo\r\ndada pela Lei nş 8.683, de 1993)"
+    },
+    {
+        "numero": "Art. 207",
+        "conteudo": "- Aliciar trabalhadores, com o fim de levá-los de uma\r\npara outra localidade do território nacional:"
+    },
+    {
+        "numero": "Art. 208",
+        "conteudo": "- Escarnecer de alguém publicamente, por motivo de crença ou funçăo\r\nreligiosa; impedir ou perturbar cerimônia ou prática de culto religioso; vilipendiar\r\npublicamente ato ou objeto de culto religioso:"
+    },
+    {
+        "numero": "Art. 209",
+        "conteudo": "- Impedir ou perturbar enterro ou cerimônia funerária:"
+    },
+    {
+        "numero": "Art. 210",
+        "conteudo": "- Violar ou profanar sepultura ou urna funerária:"
+    },
+    {
+        "numero": "Art. 211",
+        "conteudo": "- Destruir, subtrair ou ocultar cadáver ou parte dele:"
+    },
+    {
+        "numero": "Art. 212",
+        "conteudo": "- Vilipendiar cadáver ou suas cinzas:"
+    },
+    {
+        "numero": "Art. 213",
+        "conteudo": "- Constranger mulher ŕ conjunçăo carnal, mediante\r\nviolęncia ou grave ameaça:"
+    },
+    {
+        "numero": "Art. 213. ",
+        "conteudo": "Constranger alguém, mediante \r\n\t\tviolęncia ou grave ameaça, a ter conjunçăo carnal ou a praticar ou \r\n\t\tpermitir que com ele se pratique outro ato libidinoso:            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 214",
+        "conteudo": "- Constranger alguém, mediante violęncia ou grave\r\nameaça, a praticar ou permitir que com ele se pratique ato libidinoso diverso da\r\nconjunçăo carnal:            \n   Vide Lei nş 8.072, de 25.7.90\n               (Revogado pela Lei \r\nnş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 215",
+        "conteudo": "- Ter conjunçăo carnal com mulher honesta, mediante fraude:"
+    },
+    {
+        "numero": "Art. 215.",
+        "conteudo": "Ter conjunçăo carnal com mulher, mediante fraude:            \n   \t\t\t(Redaçăo dada pela Lei nş 11.106, de\r\n2005)"
+    },
+    {
+        "numero": "Art. 215. ",
+        "conteudo": "Ter conjunçăo carnal ou praticar \r\n\t\toutro ato libidinoso com alguém, mediante fraude ou outro meio que \r\n\t\timpeça ou dificulte a livre manifestaçăo de vontade da vítima:            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 215-A.",
+        "conteudo": "Praticar contra alguém e sem a sua \r\n\tanuęncia ato libidinoso com o objetivo de satisfazer a própria lascívia ou a \r\n\tde terceiro:            \n   (Incluído pela Lei nş 13.718, de 2018)"
+    },
+    {
+        "numero": "Art. 216",
+        "conteudo": "- Induzir mulher honesta, mediante fraude, a praticar ou permitir que com ela\r\nse pratique ato libidinoso diverso da conjunçăo carnal:"
+    },
+    {
+        "numero": "Art. 216.",
+        "conteudo": "Induzir alguém, mediante fraude, a praticar ou\r\nsubmeter-se ŕ prática de ato libidinoso diverso da conjunçăo carnal:            \n   \t\t\t(Redaçăo dada pela Lei nş 11.106, de\r\n2005)\n               (Revogado pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 216-A\n",
+        "conteudo": " \t\t\t. Constranger alguém com o intuito de obter vantagem\r\nou favorecimento sexual, prevalecendo-se o agente da sua condiçăo de superior\r\nhierárquico ou ascendęncia inerentes ao exercício de emprego, cargo ou funçăo.\"            \n  \t\t\t(Incluído pela Lei nş 10.224, de 15 de 2001)"
+    },
+    {
+        "numero": "Art. 216-B.",
+        "conteudo": "\r\n\t Produzir, fotografar, filmar ou registrar, por qualquer meio, conteúdo com \r\n\tcena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado sem \r\n\tautorizaçăo dos participantes:            \n   \t\t(Incluído pela Lei nş \r\n\t13.772, de 2018)"
+    },
+    {
+        "numero": "Art. 217",
+        "conteudo": "- Seduzir mulher virgem, menor de dezoito anos e maior de \r\nquatorze, e ter com ela conjunçăo carnal, aproveitando-se\r\nde sua inexperięncia ou justificável confiança:\n              (Revogado pela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 217-A. ",
+        "conteudo": "Ter conjunçăo carnal ou praticar \r\n\t\toutro ato libidinoso com menor de 14 (catorze) anos:            \n   \t\t\t(Incluído \r\n\t\tpela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 218",
+        "conteudo": "- Corromper ou facilitar a corrupçăo de pessoa maior de\r\nquatorze e menor de dezoito anos, com ela praticando ato de libidinagem, ou\r\ninduzindo-a a praticá-lo ou presenciá-lo:"
+    },
+    {
+        "numero": "Art. 218. ",
+        "conteudo": "Induzir alguém menor de 14 \r\n\t\t(catorze) anos a satisfazer a lascívia de outrem:            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 218-A. ",
+        "conteudo": "Praticar, na presença de alguém \r\n\t\tmenor de 14 (catorze) anos, ou induzi-lo a presenciar, conjunçăo carnal \r\n\t\tou outro ato libidinoso, a fim de satisfazer lascívia própria ou de \r\n\t\toutrem:            \n   (Incluído \r\n\t\tpela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 218-B. ",
+        "conteudo": "Submeter, induzir ou atrair ŕ \r\n\t\tprostituiçăo ou outra forma de exploraçăo sexual alguém menor de 18 \r\n\t\t(dezoito) anos ou que, por enfermidade ou deficięncia mental, năo tem o \r\n\t\tnecessário discernimento para a prática do ato, facilitá-la, impedir ou \r\n\t\tdificultar que a abandone:            \n   \t\t\t(Incluído \r\n\t\tpela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 218-C.\n",
+        "conteudo": "  Oferecer, trocar, \r\n\tdisponibilizar, transmitir, vender ou expor ŕ venda, distribuir, publicar ou \r\n\tdivulgar, por qualquer meio - inclusive por meio de comunicaçăo de massa ou \r\n\tsistema de informática ou telemática -, fotografia, vídeo ou outro registro \r\n\taudiovisual que contenha cena de estupro ou de estupro de vulnerável ou que \r\n\tfaça apologia ou induza a sua prática, ou, sem o consentimento da vítima, \r\n\tcena de sexo, nudez ou pornografia:            \n   \t\t\t(Incluído pela Lei \r\n\t\tnş 13.718, de 2018)"
+    },
+    {
+        "numero": "Art. 219",
+        "conteudo": "- Raptar mulher honesta, mediante\r\nviolęncia, grave ameaça ou fraude, para fim libidinoso:             (Revogado pela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 220",
+        "conteudo": "- Se a raptada é maior de catorze\r\nanos e menor de vinte e um, e o rapto se dá com seu consentimento:\n  (Revogado pela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 221",
+        "conteudo": "- É diminuída de um terço a\r\npena, se o rapto é para fim de casamento, e de metade, se o agente, sem ter praticado com\r\na vítima qualquer ato libidinoso, a restitue ŕ liberdade ou a coloca em lugar seguro, ŕ\r\ndisposiçăo da família\n  .            \n  (Revogado\r\npela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 222",
+        "conteudo": "- Se o agente, ao efetuar o rapto,\r\nou em seguida a este, pratica outro crime contra a raptada, aplicam-se cumulativamente a\r\npena correspondente ao rapto e a cominada ao outro crime.\n              (Revogado pela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 223",
+        "conteudo": "- Se da violęncia resulta lesăo corporal de natureza\r\ngrave:            \n   (Vide Lei nş 8.072, de 25.7.90)\n               (Revogado pela Lei \r\nnş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 224",
+        "conteudo": "- Presume-se a violęncia, se a vítima:            \n   \t\t\t(Vide\r\nLei nş 8.072, de 25.7.90)\n                   (Revogado pela Lei nş \r\n12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 225",
+        "conteudo": "- Nos crimes definidos nos capítulos anteriores, somente se procede mediante\r\nqueixa."
+    },
+    {
+        "numero": "Art. 225. ",
+        "conteudo": "Nos crimes definidos nos Capítulos \r\n\t\tI e II deste Título, procede-se mediante açăo penal pública condicionada \r\n\t\tŕ representaçăo.            \n   (Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 225. \r\n\t\tNos",
+        "conteudo": "crimes definidos nos Capítulos I \r\n\te II deste Título, procede-se mediante açăo penal pública incondicionada.            \n   \t\t\t(Redaçăo dada pela \r\n\t\tLei nş 13.718, de 2018)"
+    },
+    {
+        "numero": "Art. 226",
+        "conteudo": "- A pena é aumentada de quarta parte:"
+    },
+    {
+        "numero": "Art. 226.",
+        "conteudo": "A pena é aumentada:            \n  \t\t\t(Redaçăo dada pela Lei nş 11.106, de\r\n2005)"
+    },
+    {
+        "numero": "Art. 227",
+        "conteudo": "- Induzir alguém a satisfazer a lascívia de outrem:"
+    },
+    {
+        "numero": "Art. 228",
+        "conteudo": "- Induzir ou atrair alguém ŕ prostituiçăo, facilitá-la ou impedir que\r\nalguém a abandone:"
+    },
+    {
+        "numero": "Art. 228. ",
+        "conteudo": "Induzir ou atrair alguém ŕ \r\n\t\tprostituiçăo ou outra forma de exploraçăo sexual, facilitá-la, impedir \r\n\t\tou dificultar que alguém a abandone:            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 229",
+        "conteudo": "- Manter, por conta própria ou de terceiro, casa de prostituiçăo ou lugar\r\ndestinado a encontros para fim libidinoso, haja, ou năo, intuito de lucro ou mediaçăo\r\ndireta do proprietário ou gerente:"
+    },
+    {
+        "numero": "Art. 229. ",
+        "conteudo": "Manter, \r\npor conta própria ou de terceiro, estabelecimento em que ocorra exploraçăo \r\nsexual, haja, ou năo, intuito de lucro ou mediaçăo direta do proprietário ou \r\ngerente:            \n   (Redaçăo dada pela \r\nLei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 230",
+        "conteudo": "- Tirar proveito da prostituiçăo alheia, participando diretamente de seus\r\nlucros ou fazendo-se sustentar, no todo ou em parte, por quem a exerça:"
+    },
+    {
+        "numero": "Art. 231",
+        "conteudo": "- Promover ou facilitar a entrada,\r\nno território nacional, de mulher que nele venha exercer a prostituiçăo, ou a saída de\r\nmulher que vá exercę-la no estrangeiro:"
+    },
+    {
+        "numero": "Art. 231.\n",
+        "conteudo": " \t\t\t\nPromover ou facilitar a entrada, no \r\n\t\tterritório nacional, de alguém que nele venha a exercer a prostituiçăo \r\n\t\tou outra forma de exploraçăo sexual, ou a saída de alguém que vá \r\n\t\texercę-la no estrangeiro.            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)\n              \n\t\t\t(Revogado pela Lei nş 13.344, de 2016)\n  \t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 231-A.",
+        "conteudo": "Promover, intermediar ou facilitar, no território nacional, o\r\nrecrutamento, o transporte, a transferęncia, o alojamento ou o acolhimento da pessoa que\r\nvenha exercer a prostituiçăo:            \n   \t\t\t(Incluído\r\npela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 231-A.\n",
+        "conteudo": " \t\t\t\nPromover ou facilitar o \r\n\t\tdeslocamento de alguém dentro do território nacional para o exercício da \r\n\t\tprostituiçăo ou outra forma de exploraçăo sexual:            \n   \t\t\t(Redaçăo \r\n\t\tdada pela Lei nş 12.015, de 2009)\n              \n\t\t\t(Revogado pela Lei nş 13.344, de 2016)\n  \t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 232",
+        "conteudo": "- Nos crimes de que trata este Capítulo, é aplicável o disposto nos arts.\r\n223 e 224.\n              (Revogado pela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 232-A.\n",
+        "conteudo": " Promover, por qualquer meio, com o fim de \r\n\t\tobter vantagem econômica, a entrada ilegal de estrangeiro em território \r\n\t\tnacional ou de brasileiro em país estrangeiro:            \n  \nIncluído \r\n\t\tpela Lei nş 13.445, de \r\n2017\n  Vigęncia"
+    },
+    {
+        "numero": "Art. 233",
+        "conteudo": "- Praticar ato obsceno em lugar público, ou aberto ou exposto ao público:"
+    },
+    {
+        "numero": "Art. 234",
+        "conteudo": "- Fazer, importar, exportar, adquirir ou ter sob sua guarda, para fim de\r\ncomércio, de distribuiçăo ou de exposiçăo pública, escrito, desenho, pintura,\r\nestampa ou qualquer objeto obsceno:"
+    },
+    {
+        "numero": "Art. 234-A. ",
+        "conteudo": "Nos crimes previstos neste Título \r\n\t\ta pena é aumentada:            \n    (Incluído \r\n\tpela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 234-B. ",
+        "conteudo": "Os processos em que se apuram \r\n\t\tcrimes definidos neste Título correrăo em segredo de justiça.            \n    \t\t\t(Incluído \r\n\tpela Lei nş 12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 234-C.\n",
+        "conteudo": "  \t\t\t\t(VETADO)\n   \t\t\t\t.            \n   \t\t\t\n(Incluído pela Lei nş \r\n\t12.015, de 2009)"
+    },
+    {
+        "numero": "Art. 235",
+        "conteudo": "- Contrair alguém, sendo casado, novo casamento:"
+    },
+    {
+        "numero": "Art. 236",
+        "conteudo": "- Contrair casamento, induzindo em erro essencial o outro contraente, ou\r\nocultando-lhe impedimento que năo seja casamento anterior:"
+    },
+    {
+        "numero": "Art. 237",
+        "conteudo": "- Contrair casamento, conhecendo a existęncia de impedimento que lhe cause a\r\nnulidade absoluta:"
+    },
+    {
+        "numero": "Art. 238",
+        "conteudo": "- Atribuir-se falsamente autoridade para celebraçăo de casamento:"
+    },
+    {
+        "numero": "Art. 239",
+        "conteudo": "- Simular casamento mediante engano de outra pessoa:"
+    },
+    {
+        "numero": "Art. 240",
+        "conteudo": "- Cometer adultério:\n  \t\t            \n\t\t(Revogado pela Lei nş 11.106, de 2005)"
+    },
+    {
+        "numero": "Art. 241",
+        "conteudo": "- Promover no registro civil a inscriçăo de nascimento inexistente:"
+    },
+    {
+        "numero": "Art. 242.",
+        "conteudo": "Dar parto alheio como próprio; ocultar recem-nascido ou substituí-lo,\r\nsuprimindo ou alterando direito inerente ao estado civil:"
+    },
+    {
+        "numero": "Art. 242",
+        "conteudo": "- Dar parto alheio como próprio; registrar como seu o\r\nfilho de outrem; ocultar recém-nascido ou substituí-lo, suprimindo ou alterando direito\r\ninerente ao estado civil:            \n  \t\t(Redaçăo dada\r\npela Lei nş 6.898, de 1981)"
+    },
+    {
+        "numero": "Art. 243",
+        "conteudo": "- Deixar em asilo de expostos ou outra instituiçăo de assistęncia filho\r\npróprio ou alheio, ocultando-lhe a filiaçăo ou atribuindo-lhe outra, com o fim de\r\nprejudicar direito inerente ao estado civil:"
+    },
+    {
+        "numero": "Art. 244.",
+        "conteudo": "Deixar, sem justa causa, de prover ŕ subsistęncia do cônjuge, ou de filho\r\nmenor de dezoito anos ou inapto para o trabalho, ou de ascendente inválido ou\r\nvaletudinário, năo lhes proporcionando os recursos necessários ou faltando ao pagamento\r\nda pensăo alimentícia judicialmente fixada; deixar, sem justa causa, de socorrer\r\ndescendente ou ascendente, gravemente enfermo:"
+    },
+    {
+        "numero": "Art. 244.",
+        "conteudo": "Deixar, sem justa\r\ncausa, de prover a subsistęncia do cônjuge, ou de filho menor de 18 anos ou inapto para\r\no trabalho ou de ascendente inválido ou valetudinário, năo lhes proporcionando os\r\nrecursos necessários ou faltando ao pagamento de pensăo alimentícia judicialmente\r\nacordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou\r\nascendente gravemente enfermo:            \n\t\t\t(Redaçăo dada pela Lei\r\nnş 5.478, de 1968)"
+    },
+    {
+        "numero": "Art. 244.",
+        "conteudo": "Deixar, sem justa causa, de prover a subsistęncia do\r\ncônjuge, ou de filho menor de 18 (dezoito) anos ou inapto para o trabalho, ou de\r\nascendente inválido ou maior de 60 (sessenta) anos, năo lhes proporcionando os recursos\r\nnecessários ou faltando ao pagamento de pensăo alimentícia judicialmente acordada,\r\nfixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente,\r\ngravemente enfermo:            \n  \t\t(Redaçăo dada pela Lei nş\r\n10.741, de 2003)"
+    },
+    {
+        "numero": "Art. 245.",
+        "conteudo": "Entregar filho menor de dezoito anos a pessoa, com a qual saiba ou deva saber\r\nque fica moral ou materialmente em perigo:"
+    },
+    {
+        "numero": "Art. 245",
+        "conteudo": "- Entregar filho menor de 18 (dezoito) anos a pessoa em cuja companhia saiba\r\nou deva saber que o menor fica moral ou materialmente em perigo:            \n  \t\t\t(Redaçăo dada pela Lei nş 7.251, de 1984)"
+    },
+    {
+        "numero": "Art. 246",
+        "conteudo": "- Deixar, sem justa causa, de prover ŕ instruçăo primária de filho em\r\nidade escolar:"
+    },
+    {
+        "numero": "Art. 247",
+        "conteudo": "- Permitir alguém que menor de dezoito anos, sujeito a seu poder ou confiado\r\nŕ sua guarda ou vigilância:"
+    },
+    {
+        "numero": "Art. 248",
+        "conteudo": "- Induzir menor de dezoito anos, ou interdito, a fugir do lugar em que se acha\r\npor determinaçăo de quem sobre ele exerce autoridade, em virtude de lei ou de ordem\r\njudicial; confiar a outrem sem ordem do pai, do tutor ou do curador algum menor de dezoito\r\nanos ou interdito, ou deixar, sem justa causa, de entregá-lo a quem legitimamente o\r\nreclame:"
+    },
+    {
+        "numero": "Art. 249",
+        "conteudo": "- Subtrair menor de dezoito anos ou interdito ao poder de quem o tem sob sua\r\nguarda em virtude de lei ou de ordem judicial:"
+    },
+    {
+        "numero": "Art. 250",
+        "conteudo": "- Causar incęndio, expondo a perigo a vida, a integridade física ou o\r\npatrimônio de outrem:"
+    },
+    {
+        "numero": "Art. 251",
+        "conteudo": "- Expor a perigo a vida, a integridade física ou o patrimônio de outrem,\r\nmediante explosăo, arremesso ou simples colocaçăo de engenho de dinamite ou de\r\nsubstância de efeitos análogos:"
+    },
+    {
+        "numero": "Art. 252",
+        "conteudo": "- Expor a perigo a vida, a integridade física ou o patrimônio de outrem,\r\nusando de gás tóxico ou asfixiante:"
+    },
+    {
+        "numero": "Art. 253",
+        "conteudo": "- Fabricar, fornecer, adquirir, possuir ou transportar, sem licença da\r\nautoridade, substância ou engenho explosivo, gás tóxico ou asfixiante, ou material\r\ndestinado ŕ sua fabricaçăo:"
+    },
+    {
+        "numero": "Art. 254",
+        "conteudo": "- Causar inundaçăo, expondo a perigo a vida, a integridade física ou o\r\npatrimônio de outrem:"
+    },
+    {
+        "numero": "Art. 255",
+        "conteudo": "- Remover, destruir ou inutilizar, em prédio próprio ou alheio, expondo a\r\nperigo a vida, a integridade física ou o patrimônio de outrem, obstáculo natural ou\r\nobra destinada a impedir inundaçăo:"
+    },
+    {
+        "numero": "Art. 256",
+        "conteudo": "- Causar desabamento ou desmoronamento, expondo a perigo a vida, a integridade\r\nfísica ou o patrimônio de outrem:"
+    },
+    {
+        "numero": "Art. 257",
+        "conteudo": "- Subtrair, ocultar ou inutilizar, por ocasiăo de incęndio, inundaçăo,\r\nnaufrágio, ou outro desastre ou calamidade, aparelho, material ou qualquer meio destinado\r\na serviço de combate ao perigo, de socorro ou salvamento; ou impedir ou dificultar\r\nserviço de tal natureza:"
+    },
+    {
+        "numero": "Art. 258",
+        "conteudo": "- Se do crime doloso de perigo comum resulta lesăo corporal de natureza\r\ngrave, a pena privativa de liberdade é aumentada de metade; se resulta morte, é aplicada\r\nem dobro. No caso de culpa, se do fato resulta lesăo corporal, a pena aumenta-se de\r\nmetade; se resulta morte, aplica-se a pena cominada ao homicídio culposo, aumentada de um\r\nterço."
+    },
+    {
+        "numero": "Art. 259",
+        "conteudo": "- Difundir doença ou praga que possa causar dano a floresta, plantaçăo ou\r\nanimais de utilidade econômica:"
+    },
+    {
+        "numero": "Art. 260",
+        "conteudo": "- Impedir ou perturbar serviço de estrada de ferro:"
+    },
+    {
+        "numero": "Art. 261",
+        "conteudo": "- Expor a perigo embarcaçăo ou aeronave, própria ou alheia, ou praticar\r\nqualquer ato tendente a impedir ou dificultar navegaçăo marítima, fluvial ou aérea:"
+    },
+    {
+        "numero": "Art. 262",
+        "conteudo": "- Expor a perigo outro meio de transporte público, impedir-lhe ou\r\ndificultar-lhe o funcionamento:"
+    },
+    {
+        "numero": "Art. 263",
+        "conteudo": "- Se de qualquer dos crimes previstos nos arts. 260 a 262, no caso de desastre\r\nou sinistro, resulta lesăo corporal ou morte, aplica-se o disposto no art. 258."
+    },
+    {
+        "numero": "Art. 264",
+        "conteudo": "- Arremessar projétil contra veículo, em movimento, destinado ao transporte\r\npúblico por terra, por água ou pelo ar:"
+    },
+    {
+        "numero": "Art. 265",
+        "conteudo": "- Atentar contra a segurança ou o funcionamento de serviço de água, luz,\r\nforça ou calor, ou qualquer outro de utilidade pública:"
+    },
+    {
+        "numero": "Art. 266",
+        "conteudo": "- Interromper ou perturbar serviço telegráfico, \r\nradiotelegráfico ou telefônico, impedir ou dificultar-lhe o restabelecimento:"
+    },
+    {
+        "numero": "Art. 267",
+        "conteudo": "- Causar epidemia, mediante a propagaçăo de germes\r\npatogęnicos:"
+    },
+    {
+        "numero": "Art. 268",
+        "conteudo": "- Infringir determinaçăo do poder público, destinada a impedir introduçăo\r\nou propagaçăo de doença contagiosa:"
+    },
+    {
+        "numero": "Art. 269",
+        "conteudo": "- Deixar o médico de denunciar ŕ autoridade pública doença cuja\r\nnotificaçăo é compulsória:"
+    },
+    {
+        "numero": "Art. 270",
+        "conteudo": "- Envenenar água potável, de uso comum ou particular,\r\nou substância alimentícia ou medicinal destinada a consumo:"
+    },
+    {
+        "numero": "Art. 271",
+        "conteudo": "- Corromper ou poluir água potável, de uso comum ou particular, tornando-a\r\nimprópria para consumo ou nociva ŕ saúde:"
+    },
+    {
+        "numero": "Art. 272.",
+        "conteudo": "Corromper, adulterar ou falsificar substância alimentícia ou medicinal\r\ndestinada a consumo, tornando-a nociva ŕ saude:"
+    },
+    {
+        "numero": "Art. 272",
+        "conteudo": "- Corromper, adulterar, falsificar ou alterar substância\r\nou produto alimentício destinado a consumo, tornando-o nociva ŕ saúde ou reduzindo-lhe\r\no valor nutritivo:        \n  \t\t(Redaçăo dada pela Lei nş 9.677,\r\nde 2.7.1998)"
+    },
+    {
+        "numero": "Art. 273.",
+        "conteudo": "Alterar substância alimentícia\r\nou medicinal:"
+    },
+    {
+        "numero": "Art. 273",
+        "conteudo": "- Falsificar, corromper, adulterar ou alterar produto\r\ndestinado a fins terapęuticos ou medicinais:        \n  \t\t(Redaçăo\r\ndada pela Lei nş 9.677, de 2.7.1998)"
+    },
+    {
+        "numero": "Art. 274",
+        "conteudo": "- Empregar, no fabrico de produto destinado a consumo,\r\nrevestimento, gaseificaçăo artificial, matéria corante, substância aromática,\r\nanti-séptica, conservadora ou qualquer outra năo expressamente permitida pela\r\nlegislaçăo sanitária:"
+    },
+    {
+        "numero": "Art. 275.",
+        "conteudo": "Inculcar, em invólucro ou recipiente de produto alimentício ou medicinal, a\r\nexistęncia de substância que năo se encontra em seu conteudo ou que nele existe em\r\nquantidade menor que a mencionada:"
+    },
+    {
+        "numero": "Art. 275",
+        "conteudo": "- Inculcar, em invólucro ou recipiente de produtos\r\nalimentícios, terapęuticos ou medicinais, a existęncia de substância que năo se\r\nencontra em seu conteúdo ou que nele existe em quantidade menor que a mencionada:        \n  \t\t\t(Redaçăo dada pela Lei nş 9.677, de 2.7.1998)"
+    },
+    {
+        "numero": "Art. 276",
+        "conteudo": "- Vender, expor ŕ venda, ter em depósito para vender\r\nou, de qualquer forma, entregar a consumo produto nas condiçőes dos arts. 274 e 275."
+    },
+    {
+        "numero": "Art. 277.",
+        "conteudo": "Vender, expor ŕ venda, ter em depósito ou ceder substância destinada ŕ\r\nfalsificaçăo de produto alimentício ou medicinal:"
+    },
+    {
+        "numero": "Art. 277",
+        "conteudo": "- Vender, expor ŕ venda, ter em depósito ou ceder\r\nsubstância destinada ŕ falsificaçăo de produtos alimentícios, terapęuticos ou\r\nmedicinais:            \n  \t\t(Redaçăo dada pela Lei nş 9.677, de\r\n2.7.1998)"
+    },
+    {
+        "numero": "Art. 278",
+        "conteudo": "- Fabricar, vender, expor ŕ venda, ter em depósito para vender ou, de\r\nqualquer forma, entregar a consumo coisa ou substância nociva ŕ saúde, ainda que năo\r\ndestinada ŕ alimentaçăo ou a fim medicinal:"
+    },
+    {
+        "numero": "Art. 279",
+        "conteudo": "- Vender, ter em depósito para vender ou expor ŕ venda\r\nou, de qualquer forma, entregar a consumo substância alimentícia ou medicinal avariada:"
+    },
+    {
+        "numero": "Art. 280",
+        "conteudo": "- Fornecer substância medicinal em desacordo com receita médica:"
+    },
+    {
+        "numero": "Art. 281.",
+        "conteudo": "Importar ou exportar, vender ou expor ŕ venda, fornecer, ainda que a título\r\n    gratuito, transportar, trazer consigo, ter em depósito, guardar, ministrar ou, de\r\n    qualquer maneira, entregar a consumo substância entorpecente, sem autorizaçăo ou em\r\n    desacordo com determinaçăo legal ou regulamentar:"
+    },
+    {
+        "numero": "Art. 281.",
+        "conteudo": "Plantar, importar ou exportar, vender ou expor ŕ venda,\r\n    fornecer, ainda que a título gratuito, transportar, trazer consigo, ter em depósito,\r\n    guardar, ministrar ou, de qualquer maneira, entregar a consumo, substância entorpecente,\r\n    sem autorizaçăo ou em desacôrdo com determinaçăo legal ou regulamentar: Pena -\r\n    reclusăo, de um a cinco anos, e multa de dois a dez mil cruzeiros.            \n      \t\t\t(Redaçăo dada pela Lei nş 4.451, de 1964)"
+    },
+    {
+        "numero": "Art. 281.",
+        "conteudo": "Importar ou exportar, preparar, produzir, vender, expor\r\n    a venda, fornecer, ainda que gratuitamente, ter em depósito, transportar, trazer consigo,\r\n    guardar, ministrar ou entregar, de qualquer forma, a consumo substância entorpecente, ou\r\n    que determine dependęncia física ou psíquica, sem autorizaçăo ou de desacôrdo com\r\n    determinaçăo legal ou regulamentar: (Comércio, posse ou facilitaçăo destinadas ŕ\r\n    entorpecentes ou substância que determine dependęncia física ou psíquica.)            \n      \t\t\t(Redaçăo dada pelo Decreto-Lei nş 385, de 1968)"
+    },
+    {
+        "numero": "Art. 281.",
+        "conteudo": "Importar ou exportar, preparar, produzir, vender, expor\r\n    ŕ venda ou oferecer, fornecer, ainda que gratuitamente, ter em depósito, transportar,\r\n    trazer consigo, guardar, ministrar ou entregar de qualquer forma, a consumo substância\r\n    entorpecente, ou que determine dependęncia física ou psíquica, sem autorizaçăo ou em\r\n    desacôrdo com determinaçăo legal ou regulamentar:        \n      \t\t\t(Redaçăo dada pela Lei nş 5.726, de 1971)\n      \t\t\t            \n\t\t\t(Revogado pela Lei nş 6.368, 1976)"
+    },
+    {
+        "numero": "Art. 282",
+        "conteudo": "- Exercer, ainda que a título gratuito, a profissăo de médico, dentista ou\r\nfarmacęutico, sem autorizaçăo legal ou excedendo-lhe os limites:"
+    },
+    {
+        "numero": "Art. 283",
+        "conteudo": "- Inculcar ou anunciar cura por meio secreto ou infalível:"
+    },
+    {
+        "numero": "Art. 284",
+        "conteudo": "- Exercer o curandeirismo:"
+    },
+    {
+        "numero": "Art. 285",
+        "conteudo": "- Aplica-se o disposto no art. 258 aos crimes previstos neste Capítulo, salvo\r\nquanto ao definido no art. 267."
+    },
+    {
+        "numero": "Art. 286",
+        "conteudo": "- Incitar, publicamente, a prática de crime:"
+    },
+    {
+        "numero": "Art. 287",
+        "conteudo": "- Fazer, publicamente, apologia de fato criminoso ou de autor de crime:"
+    },
+    {
+        "numero": "Art. 288",
+        "conteudo": "- Associarem-se mais de tręs pessoas, em quadrilha ou\r\nbando, para o fim de cometer crimes:            \n    \t\t(Vide Lei nş 12.850, de \r\n2.013)\n     (Vigęncia)"
+    },
+    {
+        "numero": "Art. 289",
+        "conteudo": "- Falsificar, fabricando-a ou alterando-a, moeda metálica ou papel-moeda de\r\ncurso legal no país ou no estrangeiro:"
+    },
+    {
+        "numero": "Art. 290",
+        "conteudo": "- Formar cédula, nota ou bilhete representativo de moeda com fragmentos de\r\ncédulas, notas ou bilhetes verdadeiros; suprimir, em nota, cédula ou bilhete recolhidos,\r\npara o fim de restituí-los ŕ circulaçăo, sinal indicativo de sua inutilizaçăo;\r\nrestituir ŕ circulaçăo cédula, nota ou bilhete em tais condiçőes, ou já recolhidos\r\npara o fim de inutilizaçăo:"
+    },
+    {
+        "numero": "Art. 291",
+        "conteudo": "- Fabricar, adquirir, fornecer, a título oneroso ou gratuito, possuir ou\r\nguardar maquinismo, aparelho, instrumento ou qualquer objeto especialmente destinado ŕ\r\nfalsificaçăo de moeda:"
+    },
+    {
+        "numero": "Art. 292",
+        "conteudo": "- Emitir, sem permissăo legal, nota, bilhete, ficha, vale ou título que\r\ncontenha promessa de pagamento em dinheiro ao portador ou a que falte indicaçăo do nome\r\nda pessoa a quem deva ser pago:"
+    },
+    {
+        "numero": "Art. 293",
+        "conteudo": "- Falsificar, fabricando-os ou alterando-os:"
+    },
+    {
+        "numero": "Art. 294",
+        "conteudo": "- Fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente\r\ndestinado ŕ falsificaçăo de qualquer dos papéis referidos no artigo anterior:"
+    },
+    {
+        "numero": "Art. 295",
+        "conteudo": "- Se o agente é funcionário público, e comete o crime prevalecendo-se do\r\ncargo, aumenta-se a pena de sexta parte."
+    },
+    {
+        "numero": "Art. 296",
+        "conteudo": "- Falsificar, fabricando-os ou alterando-os:"
+    },
+    {
+        "numero": "Art. 297",
+        "conteudo": "- Falsificar, no todo ou em parte, documento público,\r\nou alterar documento público verdadeiro:"
+    },
+    {
+        "numero": "Art. 298",
+        "conteudo": "- Falsificar, no todo ou em parte, documento \r\nparticular ou alterar documento particular verdadeiro:"
+    },
+    {
+        "numero": "Art. 299",
+        "conteudo": "- Omitir, em documento público ou particular,\r\ndeclaraçăo que dele devia constar, ou nele inserir ou fazer inserir declaraçăo falsa\r\nou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigaçăo ou\r\nalterar a verdade sobre fato juridicamente relevante:"
+    },
+    {
+        "numero": "Art. 300",
+        "conteudo": "- Reconhecer, como verdadeira, no exercício de funçăo pública, firma ou\r\nletra que o năo seja:"
+    },
+    {
+        "numero": "Art. 301",
+        "conteudo": "- Atestar ou certificar falsamente, em razăo de funçăo pública, fato ou\r\ncircunstância que habilite alguém a obter cargo público, isençăo de ônus ou de\r\nserviço de caráter público, ou qualquer outra vantagem:"
+    },
+    {
+        "numero": "Art. 302",
+        "conteudo": "- Dar o médico, no exercício da sua profissăo, atestado falso:"
+    },
+    {
+        "numero": "Art. 303",
+        "conteudo": "- Reproduzir ou alterar selo ou peça filatélica que tenha valor para\r\ncoleçăo, salvo quando a reproduçăo ou a alteraçăo está visivelmente anotada na face\r\nou no verso do selo ou peça:"
+    },
+    {
+        "numero": "Art. 304",
+        "conteudo": "- Fazer uso de qualquer dos papéis falsificados ou alterados, a que se\r\nreferem os arts. 297 a 302:"
+    },
+    {
+        "numero": "Art. 305",
+        "conteudo": "- Destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em\r\nprejuízo alheio, documento público ou particular verdadeiro, de que năo podia dispor:"
+    },
+    {
+        "numero": "Art. 306",
+        "conteudo": "- Falsificar, fabricando-o ou alterando-o, marca ou sinal empregado pelo poder\r\npúblico no contraste de metal precioso ou na fiscalizaçăo alfandegária, ou usar marca\r\nou sinal dessa natureza, falsificado por outrem:"
+    },
+    {
+        "numero": "Art. 307",
+        "conteudo": "- Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em\r\nproveito próprio ou alheio, ou para causar dano a outrem:"
+    },
+    {
+        "numero": "Art. 308",
+        "conteudo": "- Usar, como próprio, passaporte, título de eleitor, caderneta de reservista\r\nou qualquer documento de identidade alheia ou ceder a outrem, para que dele se utilize,\r\ndocumento dessa natureza, próprio ou de terceiro:"
+    },
+    {
+        "numero": "Art. 309",
+        "conteudo": "- Usar o estrangeiro, para entrar ou permanecer no território nacional, nome\r\nque năo é o seu:"
+    },
+    {
+        "numero": "Art. 310.",
+        "conteudo": "\r\nAtribuir a estrangeiro falsa qualidade, para promover-lhe a entrada em \r\nterritório nacional:"
+    },
+    {
+        "numero": "Art. 310",
+        "conteudo": "- Prestar-se a figurar como proprietário ou possuidor de\r\naçăo, título ou valor pertencente a estrangeiro, nos casos em que a este é vedada por\r\nlei a propriedade ou a posse de tais bens:        \n  \t\t(Redaçăo\r\ndada pela Lei nş 9.426, de 1996)"
+    },
+    {
+        "numero": "Art. 311.",
+        "conteudo": "\r\nPrestar-se a figurar como proprietário ou possuidor de açăo, título ou valor \r\npertencente a estrangeiro, nos casos em que a este é vedada por lei a \r\npropriedade ou a posse de tais bens:"
+    },
+    {
+        "numero": "Art. 311",
+        "conteudo": "- Adulterar ou remarcar número de chassi ou qualquer\r\nsinal identificador de veículo automotor, de seu componente ou equipamento:    (Redaçăo\r\ndada pela Lei nş 9.426, de 1996)"
+    },
+    {
+        "numero": "Art. 311.",
+        "conteudo": "Adulterar, remarcar ou suprimir \n\t\t\tnúmero de chassi, monobloco, motor, placa de identificaçăo, ou \n\t\t\tqualquer sinal identificador de veículo automotor, elétrico, \n\t\t\thíbrido, de reboque, de semirreboque ou de suas combinaçőes, bem \n\t\t\tcomo de seus componentes ou equipamentos, sem autorizaçăo do órgăo \n\t\t\tcompetente:  \n\t\t\t(Redaçăo dada \n\t\t\tpela Lei nş 14.562, de 2023)"
+    },
+    {
+        "numero": "Art. 311-A. ",
+        "conteudo": "\r\n\t\tUtilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a \r\n\t\toutrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso \r\n\t\tde:\n          \n\t\t(Incluído pela Lei 12.550. de 2011)"
+    },
+    {
+        "numero": "Art. 312",
+        "conteudo": "- Apropriar-se o funcionário público de dinheiro, valor ou qualquer outro\r\nbem móvel, público ou particular, de que tem a posse em razăo do cargo, ou desviá-lo,\r\nem proveito próprio ou alheio:"
+    },
+    {
+        "numero": "Art. 313",
+        "conteudo": "- Apropriar-se de dinheiro ou qualquer utilidade que, no exercício do cargo,\r\nrecebeu por erro de outrem:"
+    },
+    {
+        "numero": "Art. 313-A.",
+        "conteudo": "Inserir ou facilitar, o funcionário autorizado, a\r\ninserçăo de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas\r\ninformatizados ou bancos de dados da Administraçăo Pública com o fim de obter vantagem\r\nindevida para si ou para outrem ou para causar dano:        \n  \t\t\t(Incluído pela Lei nş 9.983, de 2000)\n  \t\t\t)"
+    },
+    {
+        "numero": "Art. 313-B.",
+        "conteudo": "Modificar ou alterar, o funcionário, sistema de\r\ninformaçőes ou programa de informática sem autorizaçăo ou solicitaçăo de autoridade\r\ncompetente:        \n  \t\t(Incluído pela Lei nş 9.983, de 2000)"
+    },
+    {
+        "numero": "Art. 314",
+        "conteudo": "- Extraviar livro oficial ou qualquer documento, de que tem a guarda em razăo\r\ndo cargo; sonegá-lo ou inutilizá-lo, total ou parcialmente:"
+    },
+    {
+        "numero": "Art. 315",
+        "conteudo": "- Dar ŕs verbas ou rendas públicas aplicaçăo diversa da estabelecida em\r\nlei:"
+    },
+    {
+        "numero": "Art. 316",
+        "conteudo": "- Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da\r\nfunçăo ou antes de assumi-la, mas em razăo dela, vantagem indevida:"
+    },
+    {
+        "numero": "Art. 317",
+        "conteudo": "- Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda\r\nque fora da funçăo ou antes de assumi-la, mas em razăo dela, vantagem indevida, ou\r\naceitar promessa de tal vantagem:"
+    },
+    {
+        "numero": "Art. 318",
+        "conteudo": "- Facilitar, com infraçăo de dever funcional, a\r\nprática de contrabando ou descaminho (art. 334):"
+    },
+    {
+        "numero": "Art. 319",
+        "conteudo": "- Retardar ou deixar de praticar, indevidamente, ato de ofício, ou\r\npraticá-lo contra disposiçăo expressa de lei, para satisfazer interesse ou sentimento\r\npessoal:    \n\t\t(Vide ADPF 881)"
+    },
+    {
+        "numero": "Art. 319-A. ",
+        "conteudo": "Deixar o Diretor de Penitenciária e/ou agente público, de cumprir \r\nseu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, \r\nque permita a comunicaçăo com outros presos ou com o ambiente externo:        \n  \t\t\t(Incluído pela Lei \r\n\t\tnş 11.466, de 2007)."
+    },
+    {
+        "numero": "Art. 320",
+        "conteudo": "- Deixar o funcionário, por indulgęncia, de responsabilizar subordinado que\r\ncometeu infraçăo no exercício do cargo ou, quando lhe falte competęncia, năo levar o\r\nfato ao conhecimento da autoridade competente:"
+    },
+    {
+        "numero": "Art. 321",
+        "conteudo": "- Patrocinar, direta ou indiretamente, interesse privado\r\nperante a administraçăo pública, valendo-se da qualidade de funcionário:"
+    },
+    {
+        "numero": "Art. 322",
+        "conteudo": "- Praticar violęncia, no exercício de funçăo ou a\r\npretexto de exercę-la:"
+    },
+    {
+        "numero": "Art. 323",
+        "conteudo": "- Abandonar cargo público, fora dos casos permitidos em lei:"
+    },
+    {
+        "numero": "Art. 324",
+        "conteudo": "- Entrar no exercício de funçăo pública antes de satisfeitas as\r\nexigęncias legais, ou continuar a exercę-la, sem autorizaçăo, depois de saber\r\noficialmente que foi exonerado, removido, substituído ou suspenso:"
+    },
+    {
+        "numero": "Art. 325",
+        "conteudo": "- Revelar fato de que tem cięncia em razăo do cargo e que deva permanecer em\r\nsegredo, ou facilitar-lhe a revelaçăo:"
+    },
+    {
+        "numero": "Art. 326",
+        "conteudo": "- Devassar o sigilo de proposta de concorręncia pública, ou proporcionar a\r\nterceiro o ensejo de devassá-lo:"
+    },
+    {
+        "numero": "Art. 327",
+        "conteudo": "- Considera-se funcionário público, para os efeitos\r\npenais, quem, embora transitoriamente ou sem remuneraçăo, exerce cargo, emprego ou\r\nfunçăo pública."
+    },
+    {
+        "numero": "Art. 328",
+        "conteudo": "- Usurpar o exercício de funçăo pública:"
+    },
+    {
+        "numero": "Art. 329",
+        "conteudo": "- Opor-se ŕ execuçăo de ato legal, mediante violęncia\r\nou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando\r\nauxílio:"
+    },
+    {
+        "numero": "Art. 330",
+        "conteudo": "- Desobedecer a ordem legal de funcionário público:"
+    },
+    {
+        "numero": "Art. 331",
+        "conteudo": "- Desacatar funcionário público no exercício da funçăo ou em razăo dela:"
+    },
+    {
+        "numero": "Art. 332.",
+        "conteudo": "Obter, para si ou para outrem,\r\nvantagem ou promessa de vantagem, a pretexto de influir em funcionário público no\r\nexercício da funçăo:\n  Pena - reclusăo, de um a cinco anos, e multa,\r\nde tręs contos a vinte contos de réis."
+    },
+    {
+        "numero": "Art. 332",
+        "conteudo": "- Solicitar, exigir, cobrar ou obter, para si ou para\r\noutrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por\r\nfuncionário público no exercício da funçăo:            \n  \t\t(Redaçăo dada pela Lei nş 9.127, de 1995)"
+    },
+    {
+        "numero": "Art. 333",
+        "conteudo": "- Oferecer ou prometer vantagem indevida a funcionário público, para\r\ndeterminá-lo a praticar, omitir ou retardar ato de ofício:"
+    },
+    {
+        "numero": "Art. 334.",
+        "conteudo": " Iludir, no todo ou em parte, o \r\n\t\tpagamento de direito ou imposto devido pela entrada, pela saída ou pelo \r\n\t\tconsumo de mercadoria\n          \n\t\t(Redaçăo dada pela Lei nş \r\n\t\t13.008, de 26.6.2014)"
+    },
+    {
+        "numero": "Art. 334-A.",
+        "conteudo": "Importar ou exportar mercadoria \r\n\t\tproibida:        \n  (Incluído pela Lei nş \r\n\t\t13.008, de 26.6.2014)"
+    },
+    {
+        "numero": "Art. 335",
+        "conteudo": "- Impedir, perturbar ou fraudar concorręncia pública ou venda em hasta\r\npública, promovida pela administraçăo federal, estadual ou municipal, ou por entidade\r\nparaestatal; afastar ou procurar afastar concorrente ou licitante, por meio de violęncia,\r\ngrave ameaça, fraude ou oferecimento de vantagem:"
+    },
+    {
+        "numero": "Art. 336",
+        "conteudo": "- Rasgar ou, de qualquer forma, inutilizar ou conspurcar edital afixado por\r\nordem de funcionário público; violar ou inutilizar selo ou sinal empregado, por\r\ndeterminaçăo legal ou por ordem de funcionário público, para identificar ou cerrar\r\nqualquer objeto:"
+    },
+    {
+        "numero": "Art. 337",
+        "conteudo": "- Subtrair, ou inutilizar, total ou parcialmente, livro oficial, processo ou\r\ndocumento confiado ŕ custódia de funcionário, em razăo de ofício, ou de particular em\r\nserviço público:"
+    },
+    {
+        "numero": "Art. 337-A.",
+        "conteudo": "Suprimir ou reduzir contribuiçăo social\r\nprevidenciária e qualquer acessório, mediante as seguintes condutas:        \n  \t\t\t(Incluído pela Lei nş 9.983, de 2000)"
+    },
+    {
+        "numero": "Art. 337-B.",
+        "conteudo": "Prometer, oferecer ou dar, direta ou indiretamente,\r\nvantagem indevida a funcionário público estrangeiro, ou a terceira pessoa, para\r\ndeterminá-lo a praticar, omitir ou retardar ato de ofício relacionado ŕ transaçăo\r\ncomercial internacional:        \n  \t\t(Incluído pela Lei nş\r\n10.467, de 11.6.2002)"
+    },
+    {
+        "numero": "Art. 337-C.",
+        "conteudo": "Solicitar, exigir, cobrar ou obter, para si ou para\r\noutrem, direta ou indiretamente, vantagem ou promessa de vantagem a pretexto de influir em\r\nato praticado por funcionário público estrangeiro no exercício de suas funçőes,\r\nrelacionado a transaçăo comercial internacional:        \n  \t\t\t(Incluído pela Lei nş 10.467, de 11.6.2002)"
+    },
+    {
+        "numero": "Art. 337-D.",
+        "conteudo": "Considera-se funcionário público estrangeiro, para\r\nos efeitos penais, quem, ainda que transitoriamente ou sem remuneraçăo, exerce cargo,\r\nemprego ou funçăo pública em entidades estatais ou em representaçőes diplomáticas de\r\npaís estrangeiro.        \n  \t\t(Incluído pela Lei nş\r\n10.467, de 11.6.2002)"
+    },
+    {
+        "numero": "Art. 337-E.",
+        "conteudo": "Admitir, possibilitar \n\t\t\tou dar causa ŕ contrataçăo direta fora das hipóteses previstas em \n\t\t\tlei:     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-F.",
+        "conteudo": "Frustrar ou fraudar, \n\t\t\tcom o intuito de obter para si ou para outrem vantagem decorrente da \n\t\t\tadjudicaçăo do objeto da licitaçăo, o caráter competitivo do \n\t\t\tprocesso licitatório:     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-G.",
+        "conteudo": "Patrocinar, direta ou \n\t\t\tindiretamente, interesse privado perante a Administraçăo Pública, \n\t\t\tdando causa ŕ instauraçăo de licitaçăo ou ŕ celebraçăo de contrato \n\t\t\tcuja invalidaçăo vier a ser decretada pelo Poder Judiciário:   \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-H.",
+        "conteudo": "Admitir, possibilitar \n\t\t\tou dar causa a qualquer modificaçăo ou vantagem, inclusive \n\t\t\tprorrogaçăo contratual, em favor do contratado, durante a execuçăo \n\t\t\tdos contratos celebrados com a Administraçăo Pública, sem \n\t\t\tautorizaçăo em lei, no edital da licitaçăo ou nos respectivos \n\t\t\tinstrumentos contratuais, ou, ainda, pagar fatura com preteriçăo da \n\t\t\tordem cronológica de sua exigibilidade:     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-I.",
+        "conteudo": "Impedir, perturbar ou \n\t\t\tfraudar a realizaçăo de qualquer ato de processo licitatório:    \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-J.",
+        "conteudo": "Devassar o sigilo de \n\t\t\tproposta apresentada em processo licitatório ou proporcionar a \n\t\t\tterceiro o ensejo de devassá-lo:    \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-K.",
+        "conteudo": "Afastar ou tentar \n\t\t\tafastar licitante por meio de violęncia, grave ameaça, fraude ou \n\t\t\toferecimento de vantagem de qualquer tipo:      \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-L.",
+        "conteudo": "Fraudar, em prejuízo \n\t\t\tda Administraçăo Pública, licitaçăo ou contrato dela decorrente, \n\t\t\tmediante:      \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-M.",
+        "conteudo": "Admitir ŕ licitaçăo \n\t\t\tempresa ou profissional declarado inidôneo:     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-N.",
+        "conteudo": "Obstar, impedir ou \n\t\t\tdificultar injustamente a inscriçăo de qualquer interessado nos \n\t\t\tregistros cadastrais ou promover indevidamente a alteraçăo, a \n\t\t\tsuspensăo ou o cancelamento de registro do inscrito:   \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-O.",
+        "conteudo": "Omitir, modificar ou \n\t\t\tentregar ŕ Administraçăo Pública levantamento cadastral ou condiçăo \n\t\t\tde contorno em relevante dissonância com a realidade, em frustraçăo \n\t\t\tao caráter competitivo da licitaçăo ou em detrimento da seleçăo da \n\t\t\tproposta mais vantajosa para a Administraçăo Pública, em contrataçăo \n\t\t\tpara a elaboraçăo de projeto básico, projeto executivo ou \n\t\t\tanteprojeto, em diálogo competitivo ou em procedimento de \n\t\t\tmanifestaçăo de interesse:     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 337-P.",
+        "conteudo": "A pena de multa \n\t\t\tcominada aos crimes previstos neste Capítulo seguirá a metodologia \n\t\t\tde cálculo prevista neste Código e năo poderá ser inferior a 2% \n\t\t\t(dois por cento) do valor do contrato licitado ou celebrado com \n\t\t\tcontrataçăo direta.     \n\t\t\t (Incluído \n\t\t\tpela Lei nş 14.133, de 2021)"
+    },
+    {
+        "numero": "Art. 338",
+        "conteudo": "- Reingressar no território nacional o estrangeiro que dele foi expulso:"
+    },
+    {
+        "numero": "Art. 339.",
+        "conteudo": "Dar causa a instauraçăo de investigaçăo policial ou de processo judicial\r\ncontra alguem, imputando-lhe crime de que o sabe inocente:"
+    },
+    {
+        "numero": "Art. 339.",
+        "conteudo": "Dar causa ŕ instauraçăo de investigaçăo policial,\r\nde processo judicial, instauraçăo de investigaçăo administrativa, inquérito civil ou\r\naçăo de improbidade administrativa contra alguém, imputando-lhe crime de que o sabe\r\ninocente:        \n  \t\t(Redaçăo dada pela Lei nş 10.028, de\r\n2000)"
+    },
+    {
+        "numero": "Art. 339.",
+        "conteudo": "Dar causa à instauraçăo de inquérito policial, de \r\n\t\t\tprocedimento investigatório criminal, de processo judicial, de \r\n\t\t\tprocesso administrativo disciplinar, de inquérito civil ou de açăo \r\n\t\t\tde improbidade administrativa contra alguém, imputando-lhe crime, \r\n\t\t\tinfraçăo ético-disciplinar ou ato ímprobo de que o sabe inocente:       \n\t\t(Redaçăo dada pela Lei nş \n14.110, de 2020)"
+    },
+    {
+        "numero": "Art. 340",
+        "conteudo": "- Provocar a açăo de autoridade, comunicando-lhe a ocorręncia de crime ou\r\nde contravençăo que sabe năo se ter verificado:"
+    },
+    {
+        "numero": "Art. 341",
+        "conteudo": "- Acusar-se, perante a autoridade, de crime inexistente ou praticado por\r\noutrem:"
+    },
+    {
+        "numero": "Art. 342",
+        "conteudo": "- Fazer afirmaçăo falsa, ou negar ou calar a verdade, como testemunha,\r\nperito, tradutor ou intérprete em processo judicial, policial ou administrativo, ou em\r\njuízo arbitral:"
+    },
+    {
+        "numero": "Art. 342.",
+        "conteudo": "Fazer afirmaçăo falsa, ou negar ou calar a verdade\r\ncomo testemunha, perito, contador, tradutor ou intérprete em processo judicial, ou\r\nadministrativo, inquérito policial, ou em juízo arbitral:            \n  \t\t\t(Redaçăo dada pela Lei nş 10.268, de\r\n28.8.2001)"
+    },
+    {
+        "numero": "Art. 343",
+        "conteudo": "- Dar, oferecer, ou prometer dinheiro ou qualquer outra vantagem a testemunha,\r\nperito, tradutor ou intérprete, para fazer afirmaçăo falsa, negar ou calar a verdade em\r\ndepoimento, perícia, traduçăo ou interpretaçăo, ainda que a oferta ou promessa năo\r\nseja aceita:"
+    },
+    {
+        "numero": "Art. 343.",
+        "conteudo": "Dar, oferecer ou prometer dinheiro ou qualquer outra\r\nvantagem a testemunha, perito, contador, tradutor ou intérprete, para fazer afirmaçăo\r\nfalsa, negar ou calar a verdade em depoimento, perícia, cálculos, traduçăo ou\r\ninterpretaçăo:        \n  \t\t(Redaçăo dada pela Lei\r\nnş 10.268, de 28.8.2001)"
+    },
+    {
+        "numero": "Art. 344",
+        "conteudo": "- Usar de violęncia ou grave ameaça, com o fim de favorecer interesse\r\npróprio ou alheio, contra autoridade, parte, ou qualquer outra pessoa que funciona ou é\r\nchamada a intervir em processo judicial, policial ou administrativo, ou em juízo\r\narbitral:"
+    },
+    {
+        "numero": "Art. 345",
+        "conteudo": "- Fazer justiça pelas próprias măos, para satisfazer pretensăo, embora\r\nlegítima, salvo quando a lei o permite:"
+    },
+    {
+        "numero": "Art. 346",
+        "conteudo": "- Tirar, suprimir, destruir ou danificar coisa própria, que se acha em poder\r\nde terceiro por determinaçăo judicial ou convençăo:"
+    },
+    {
+        "numero": "Art. 347",
+        "conteudo": "- Inovar artificiosamente, na pendęncia de processo civil ou administrativo,\r\no estado de lugar, de coisa ou de pessoa, com o fim de induzir a erro o juiz ou o perito:"
+    },
+    {
+        "numero": "Art. 348",
+        "conteudo": "- Auxiliar a subtrair-se ŕ açăo de autoridade pública autor de crime a que\r\né cominada pena de reclusăo:"
+    },
+    {
+        "numero": "Art. 349",
+        "conteudo": "- Prestar a criminoso, fora dos casos de co-autoria ou de receptaçăo,\r\nauxílio destinado a tornar seguro o proveito do crime:"
+    },
+    {
+        "numero": "Art. 350",
+        "conteudo": "- Ordenar ou executar medida privativa de liberdade \n\t\t\tindividual, sem as formalidades legais ou com abuso de poder:\n\t\t\t  \n   (Revogado \r\n\tpela \r\n\tLei nş 13.869, de 2019)     \r\n\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 351",
+        "conteudo": "- Promover ou facilitar a fuga de pessoa legalmente presa ou submetida a\r\nmedida de segurança detentiva:"
+    },
+    {
+        "numero": "Art. 352",
+        "conteudo": "- Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de\r\nsegurança detentiva, usando de violęncia contra a pessoa:"
+    },
+    {
+        "numero": "Art. 353",
+        "conteudo": "- Arrebatar preso, a fim de maltratá-lo, do poder de quem o tenha sob\r\ncustódia ou guarda:"
+    },
+    {
+        "numero": "Art. 354",
+        "conteudo": "- Amotinarem-se presos, perturbando a ordem ou disciplina da prisăo:"
+    },
+    {
+        "numero": "Art. 355",
+        "conteudo": "- Trair, na qualidade de advogado ou procurador, o dever profissional,\r\nprejudicando interesse, cujo patrocínio, em juízo, lhe é confiado:"
+    },
+    {
+        "numero": "Art. 356",
+        "conteudo": "- Inutilizar, total ou parcialmente, ou deixar de restituir autos, documento\r\nou objeto de valor probatório, que recebeu na qualidade de advogado ou procurador:"
+    },
+    {
+        "numero": "Art. 357",
+        "conteudo": "- Solicitar ou receber dinheiro ou qualquer outra utilidade, a pretexto de\r\ninfluir em juiz, jurado, órgăo do Ministério Público, funcionário de justiça,\r\nperito, tradutor, intérprete ou testemunha:"
+    },
+    {
+        "numero": "Art. 358",
+        "conteudo": "- Impedir, perturbar ou fraudar arremataçăo judicial; afastar ou procurar\r\nafastar concorrente ou licitante, por meio de violęncia, grave ameaça, fraude ou\r\noferecimento de vantagem:"
+    },
+    {
+        "numero": "Art. 359",
+        "conteudo": "- Exercer funçăo, atividade, direito, autoridade ou múnus, de que foi\r\nsuspenso ou privado por decisăo judicial:"
+    },
+    {
+        "numero": "Art. 359-A.",
+        "conteudo": "Ordenar, autorizar ou realizar operaçăo de\r\ncrédito, interno ou externo, sem prévia autorizaçăo legislativa:        \n  \t\t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-B.",
+        "conteudo": "Ordenar ou autorizar a inscriçăo em restos a pagar,\r\nde despesa que năo tenha sido previamente empenhada ou que exceda limite estabelecido em\r\nlei:        \n  \t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-C.",
+        "conteudo": "Ordenar ou autorizar a assunçăo de obrigaçăo, nos\r\ndois últimos quadrimestres do último ano do mandato ou legislatura, cuja despesa năo\r\npossa ser paga no mesmo exercício financeiro ou, caso reste parcela a ser paga no\r\nexercício seguinte, que năo tenha contrapartida suficiente de disponibilidade de caixa:        \n  \t\t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-D.",
+        "conteudo": "Ordenar despesa năo autorizada por lei:        \n  \t\t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-E.",
+        "conteudo": "Prestar garantia em operaçăo de crédito sem que\r\ntenha sido constituída contragarantia em valor igual ou superior ao valor da garantia\r\nprestada, na forma da lei:\n  (Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-F.",
+        "conteudo": "Deixar de ordenar, de autorizar ou de promover o\r\ncancelamento do montante de restos a pagar inscrito em valor superior ao permitido em lei:        \n  \t\t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-G.",
+        "conteudo": "Ordenar, autorizar ou executar ato que acarrete\r\naumento de despesa total com pessoal, nos cento e oitenta dias anteriores ao final do\r\nmandato ou da legislatura:        \n  \t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-H.",
+        "conteudo": "Ordenar, autorizar ou promover a oferta pública ou a\r\ncolocaçăo no mercado financeiro de títulos da dívida pública sem que tenham sido\r\ncriados por lei ou sem que estejam registrados em sistema centralizado de liquidaçăo e\r\nde custódia:            \n  \t\t(Incluído pela Lei nş 10.028, de 2000)"
+    },
+    {
+        "numero": "Art. 359-I.",
+        "conteudo": "Negociar com governo ou grupo estrangeiro, ou seus \r\n\t\t\tagentes, com o fim de provocar atos típicos de guerra contra o País \r\n\t\t\tou invadi-lo:         \n\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-J.",
+        "conteudo": "Praticar violęncia ou grave ameaça com a finalidade de \r\n\t\t\tdesmembrar parte do território nacional para constituir país \r\n\t\t\tindependente:         \n\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-K.",
+        "conteudo": "Entregar a governo estrangeiro, a seus agentes, ou a \r\n\t\t\torganizaçăo criminosa estrangeira, em desacordo com determinaçăo \r\n\t\t\tlegal ou regulamentar, documento ou informaçăo classificados como \r\n\t\t\tsecretos ou ultrassecretos nos termos da lei, cuja revelaçăo possa \r\n\t\t\tcolocar em perigo a preservaçăo da ordem constitucional ou a \r\n\t\t\tsoberania nacional:         \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-L.",
+        "conteudo": "Tentar, com emprego de violęncia ou grave ameaça, abolir \r\n\t\t\to Estado Democrático de Direito, impedindo ou restringindo o \r\n\t\t\texercício dos poderes constitucionais:        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-M.",
+        "conteudo": "Tentar depor, por meio de violęncia ou grave ameaça, o \r\n\t\t\tgoverno legitimamente constituído:        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-N.",
+        "conteudo": "Impedir ou perturbar a eleiçăo ou a aferiçăo de seu \r\n\t\t\tresultado, mediante violaçăo indevida de mecanismos de segurança do \r\n\t\t\tsistema eletrônico de votaçăo estabelecido pela Justiça Eleitoral:        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-O.",
+        "conteudo": "(VETADO).        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-P.",
+        "conteudo": "Restringir, impedir ou dificultar, com emprego de \r\n\t\t\tviolęncia física, sexual ou psicológica, o exercício de direitos \r\n\t\t\tpolíticos a qualquer pessoa em razăo de seu sexo, raça, cor, etnia, \r\n\t\t\treligiăo ou procedęncia nacional:        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-Q.",
+        "conteudo": "(VETADO).        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-R.",
+        "conteudo": "Destruir ou inutilizar meios de comunicaçăo ao público, \r\n\t\t\testabelecimentos, instalaçőes ou serviços destinados ŕ defesa \r\n\t\t\tnacional, com o fim de abolir o Estado Democrático de Direito:        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-T.",
+        "conteudo": "Năo constitui crime previsto neste Título a manifestaçăo \r\n\t\t\tcrítica aos poderes constitucionais nem a atividade jornalística ou \r\n\t\t\ta reivindicaçăo de direitos e garantias constitucionais por meio de \r\n\t\t\tpasseatas, de reuniőes, de greves, de aglomeraçőes ou de qualquer \r\n\t\t\toutra forma de manifestaçăo política com propósitos sociais.        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 359-U.",
+        "conteudo": "(VETADO).”        \n\t\t\t\n(Incluído \n\t\t\tpela Lei nş \n\t\t\t\t14.197, de 2021)       \n\t\t\t(Vigęncia)"
+    },
+    {
+        "numero": "Art. 360",
+        "conteudo": "- Ressalvada a legislaçăo especial sobre os crimes contra a existęncia, a\r\nsegurança e a integridade do Estado e contra a guarda e o emprego da economia popular, os\r\ncrimes de imprensa e os de falęncia, os de responsabilidade do Presidente da República e\r\ndos Governadores ou Interventores, e os crimes militares, revogam-se as disposiçőes em\r\ncontrário."
+    },
+    {
+        "numero": "Art. 361",
+        "conteudo": "- Este Código entrará em vigor no dia 1ş de janeiro de 1942."
+    }
       ]
     }
   ]
