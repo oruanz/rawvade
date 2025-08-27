@@ -1,1 +1,15 @@
-
+{
+  "version": "1.0.0.0",
+  "codigo": "Penal",
+  "leis": [
+    {
+      "id": "penal-1",
+      "titulo": "Código Penal - Parte Geral",
+      "ano": 1940,
+      "artigos": [
+        {"numero": "Art. 1", "texto": "Não há crime sem lei anterior..."},
+        {"numero": "Art. 2", "texto": "O crime é punível..."}
+      ]
+    }
+  ]
+}
